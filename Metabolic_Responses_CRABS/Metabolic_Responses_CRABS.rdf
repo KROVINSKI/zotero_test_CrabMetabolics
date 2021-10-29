@@ -1,0 +1,1723 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="https://ui.adsabs.harvard.edu/abs/2015AGUFMOS13A2034N">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><prism:volume>2015</prism:volume></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nichols</foaf:surname>
+                        <foaf:givenName>Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Busch</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McElhany</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Metabolic Response of Dungeness Crab Larvae Exposed to Elevated CO2 and Hypoxia</dc:title>
+        <dcterms:abstract>Ocean acidification (OA) and deoxygenation, both resulting from rising atmospheric CO2 levels, are lowering the pH and oxygen levels of global oceans. Assessing the impacts of OA and deoxygenation on harvested species is crucial for guiding resource management with the aim of maintaining healthy and sustainable populations. The Dungeness crab, Cancer magister, is an important species ecologically and economically for the US West Coast. Crabs transition through four main stages: zoea, megalopa, juvenile, and adult. Each stage results in a different morphology and behavior, and as a result, is exposed to various environmental parameters, such as pH and dissolved oxygen (DO). The first two stages exhibit diel vertical migration while the final stages are benthic. Our study focused on the megalopae stage and their metabolic response to OA and hypoxia. We exposed wild-caught megalopae to a pH x DO cross, producing treatment waters with combinations of low or high pH and O2, all maintained at 12˚C. Closed-chamber respirometry was used to compare standard metabolic rates in a common garden setting with high pH/high DO conditions. We predict that the megalopae exposed to the low pH/high DO treatment will have a higher metabolic rate than those exposed to the high pH/high DO treatment. This may be a result of homeostatic processes increasing to return the megalopae's internal pH back to equilibrium. We predict that the high pH/low DO treatment will cause a decrease in metabolism when compared to the high pH/high DO treatment due to the megalopae conserving oxygen in a limiting environment. If results support our hypothesis, they would suggest that OA and hypoxia affects Dungeness crabs in sublethal ways.</dcterms:abstract>
+        <dc:date>2015-12-01</dc:date>
+        <z:libraryCatalog>NASA ADS</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ui.adsabs.harvard.edu/abs/2015AGUFMOS13A2034N</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-20 06:18:39</dcterms:dateSubmitted>
+        <dc:description>Conference Name: AGU Fall Meeting Abstracts
+ADS Bibcode: 2015AGUFMOS13A2034N</dc:description>
+        <bib:pages>OS13A-2034</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1080/19768354.2008.9647184">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1976-8354"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Wongyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shirley</foaf:surname>
+                        <foaf:givenName>Thomas C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <link:link rdf:resource="#item_4"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cancer magister</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dungeness crab larvae</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>southeastern Alaska</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>spatial and temporal variation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Variations of abundance and hatch timing of dungeness crab larvae in southeastern Alaska: Implications for climate effect</dc:title>
+        <dcterms:abstract>Variations of larval abundance and hatch timing of Dungeness crabs, Cancer magister Dana 1852, were investigated. Dungeness crab larvae were monthly collected at 16 stations arrayed in four transects, Upper Chatham, Icy Strait, Cross Sound, and Icy Point, in southeastern Alaska from May to September 1997–2004. Larval abundance at all transects was the highest in June except in the Icy Point transect. Larval abundance was the highest in the Icy Strait transect, moderate in the Upper Chatham and Cross Sound transects, and the lowest in the Icy Point transect. Zoeae I (ZI) was predominated in May; thereafter ZI decreased and late zoeal stages occurred. In May and June, small numbers of late stage larvae unusually co‐occurred with ZI in three transects. These late stage larvae may have been transported from where hatching occurs earlier. The timing of ZI occurrence varied interannually and was related to degree‐days during the egg incubation period of Dungeness crabs: later larval hatching in 1997 and 2002 when temperatures were colder, while earlier larval hatching in 1998 when temperatures were warmer. The distribution patterns of Dungeness crab larvae in southeastern Alaska were markedly different from those reported from other areas of the species distribution ranges: larvae occurring much later in the year, and late stage larvae occurring in inland waters.</dcterms:abstract>
+        <dc:date>January 1, 2008</dc:date>
+        <z:shortTitle>Variations of abundance and hatch timing of dungeness crab larvae in southeastern Alaska</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/19768354.2008.9647184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-20 06:31:42</dcterms:dateSubmitted>
+        <dc:description>Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/19768354.2008.9647184</dc:description>
+        <bib:pages>287-295</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1976-8354">
+        <prism:volume>12</prism:volume>
+        <dc:title>Animal Cells and Systems</dc:title>
+        <dc:identifier>DOI 10.1080/19768354.2008.9647184</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1976-8354</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3/Park and Shirley - 2008 - Variations of abundance and hatch timing of dungen.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/19768354.2008.9647184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-20 06:31:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4/19768354.2008.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1080/19768354.2008.9647184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-20 06:31:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>97</prism:volume>
+                <dc:title>Canadian Journal of Zoology</dc:title>
+                <dc:identifier>DOI 10.1139/cjz-2018-0198</dc:identifier>
+                <dcterms:alternative>Canadian Journal of Zoology</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baumann</foaf:surname>
+                        <foaf:givenName>Hannes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>Experimental assessments of marine species sensitivities to ocean acidification and co-stressors: How far have we come? 1</dc:title>
+        <dcterms:abstract>Experimental studies assessing the potential impacts of ocean acidification on marine organisms have rapidly expanded and produced a wealth of empirical data over the past decade. This perspective examines four key areas of transformative developments in experimental approaches: (1) methodological advances; (2) advances in elucidating physiological and molecular mechanisms behind observed CO 2 effects; (3) recognition of short-term CO 2 variability as a likely modifier of species sensitivities (Ocean Variability Hypothesis); and (4) consensus on the multistressor nature of marine climate change where effect interactions are still challenging to anticipate. No single experiment allows predicting the fate of future populations. But sustaining the accumulation of empirical evidence is critical for more robust estimates of species reaction norms and thus for enabling better modeling approaches. Moreover, advanced experimental approaches are needed to address knowledge gaps including changes in species interactions and intraspecific variability in sensitivity and its importance for the adaptation potential of marine organisms to a high CO 2 world.</dcterms:abstract>
+        <dc:date>January 15, 2019</dc:date>
+        <z:shortTitle>Experimental assessments of marine species sensitivities to ocean acidification and co-stressors</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/Baumann - 2019 - Experimental assessments of marine species sensiti.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Hannes-Baumann/publication/330402784_Experimental_assessments_of_marine_species_sensitivities_to_ocean_acidification_and_co-stressors_How_far_have_we_come_1/links/5d8a1b8192851ceb793b62ba/Experimental-assessments-of-marine-species-sensitivities-to-ocean-acidification-and-co-stressors-How-far-have-we-come-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:38:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/330402784_Experimental_assessments_of_marine_species_sensitivities_to_ocean_acidification_and_co-stressors_How_far_have_we_come_1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:38:30</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Document rdf:about="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160669">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160669</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:05</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/article.html"/>
+        <dc:title>Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160669</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12359">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Critically examining the knowledge base required to mechanistically project climate impacts: A case study of Europe's fish and shellfish - Catalán - 2019 - Fish and Fisheries - Wiley Online Library</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12359</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/faf.html"/>
+        <dc:title>Critically examining the knowledge base required to mechanistically project climate impacts: A case study of Europe's fish and shellfish - Catalán - 2019 - Fish and Fisheries - Wiley Online Library</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12359</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12359">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1467-2979"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Catalán</foaf:surname>
+                        <foaf:givenName>Ignacio A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Auch</foaf:surname>
+                        <foaf:givenName>Dominik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamermans</foaf:surname>
+                        <foaf:givenName>Pauline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morales-Nin</foaf:surname>
+                        <foaf:givenName>Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Angelopoulos</foaf:surname>
+                        <foaf:givenName>Natalie V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reglero</foaf:surname>
+                        <foaf:givenName>Patricia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandersfeld</foaf:surname>
+                        <foaf:givenName>Tina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peck</foaf:surname>
+                        <foaf:givenName>Myron A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>aquaculture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>experiments</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fisheries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>gap analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>meta-analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Critically examining the knowledge base required to mechanistically project climate impacts: A case study of Europe's fish and shellfish</dc:title>
+        <dcterms:abstract>An amalgam of empirical data from laboratory and field studies is needed to build robust, theoretical models of climate impacts that can provide science-based advice for sustainable management of fish and shellfish resources. Using a semi-systematic literature review, Gap Analysis and multilevel meta-analysis, we assessed the status of empirical knowledge on the direct effects of climate change on 37 high-value species targeted by European fisheries and aquaculture sectors operating in marine and freshwater regions. Knowledge on potential climate change-related drivers (single or combined) on several responses (vital rates) across four categories (exploitation sector, region, life stage, species), was considerably unbalanced as well as biased, including a low number of studies (a) examining the interaction of abiotic factors, (b) offering opportunities to assess local adaptation, (c) targeting lower-value species. The meta-analysis revealed that projected warming would increase mean growth rates in fish and mollusks and significantly elevate metabolic rates in fish. Decreased levels of dissolved oxygen depressed rates of growth and metabolism across coherent species groups (e.g., small pelagics, etc.) while expected declines in pH reduced growth in most species groups and increased mortality in bivalves. The meta-analytical results were influenced by the study design and moderators (e.g., life stage, season). Although meta-analytic tools have become increasingly popular, when performed on the limited available data, these analyses cannot grasp relevant population effects, even in species with a long history of study. We recommend actions to overcome these shortcomings and improve mechanistic (cause-and-effect) projections of climate impacts on fish and shellfish.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Critically examining the knowledge base required to mechanistically project climate impacts</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12359</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:53</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/faf.12359</dc:description>
+        <bib:pages>501-517</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1467-2979">
+        <prism:volume>20</prism:volume>
+        <dc:title>Fish and Fisheries</dc:title>
+        <dc:identifier>DOI 10.1111/faf.12359</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1467-2979</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Catalán et al. - 2019 - Critically examining the knowledge base required t.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faf.12359</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:40:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12179">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1365-2486"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kroeker</foaf:surname>
+                        <foaf:givenName>Kristy J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kordas</foaf:surname>
+                        <foaf:givenName>Rebecca L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crim</foaf:surname>
+                        <foaf:givenName>Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hendriks</foaf:surname>
+                        <foaf:givenName>Iris E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramajo</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Gerald S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duarte</foaf:surname>
+                        <foaf:givenName>Carlos M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gattuso</foaf:surname>
+                        <foaf:givenName>Jean-Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <link:link rdf:resource="#item_16"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>calcification</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>carbonate chemistry</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>cumulative effects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>pH</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming</dc:title>
+        <dcterms:abstract>Ocean acidification represents a threat to marine species worldwide, and forecasting the ecological impacts of acidification is a high priority for science, management, and policy. As research on the topic expands at an exponential rate, a comprehensive understanding of the variability in organisms' responses and corresponding levels of certainty is necessary to forecast the ecological effects. Here, we perform the most comprehensive meta-analysis to date by synthesizing the results of 228 studies examining biological responses to ocean acidification. The results reveal decreased survival, calcification, growth, development and abundance in response to acidification when the broad range of marine organisms is pooled together. However, the magnitude of these responses varies among taxonomic groups, suggesting there is some predictable trait-based variation in sensitivity, despite the investigation of approximately 100 new species in recent research. The results also reveal an enhanced sensitivity of mollusk larvae, but suggest that an enhanced sensitivity of early life history stages is not universal across all taxonomic groups. In addition, the variability in species' responses is enhanced when they are exposed to acidification in multi-species assemblages, suggesting that it is important to consider indirect effects and exercise caution when forecasting abundance patterns from single-species laboratory experiments. Furthermore, the results suggest that other factors, such as nutritional status or source population, could cause substantial variation in organisms' responses. Last, the results highlight a trend towards enhanced sensitivity to acidification when taxa are concurrently exposed to elevated seawater temperature.</dcterms:abstract>
+        <dc:date>2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Impacts of ocean acidification on marine organisms</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12179</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:41:09</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.12179</dc:description>
+        <bib:pages>1884-1896</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1365-2486">
+        <prism:volume>19</prism:volume>
+        <dc:title>Global Change Biology</dc:title>
+        <dc:identifier>DOI 10.1111/gcb.12179</dc:identifier>
+        <prism:number>6</prism:number>
+        <dc:identifier>ISSN 1365-2486</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/Kroeker et al. - 2013 - Impacts of ocean acidification on marine organisms.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.12179</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:41:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/gcb.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.12179</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:41:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_17">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>74</prism:volume>
+                <dc:title>ICES Journal of Marine Science: Journal du Conseil</dc:title>
+                <dc:identifier>DOI 10.1093/icesjms/fsw085</dc:identifier>
+                <dcterms:alternative>ICES Journal of Marine Science: Journal du Conseil</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McElhany</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>CO 2 sensitivity experiments are not sufficient to show an effect of ocean acidification</dc:title>
+        <dcterms:abstract>The ocean acidification (OA) literature is replete with laboratory studies that report species sensitivity to seawater carbonate chemistry in experimental treatments as an “effect of OA”. I argue that this is unintentionally misleading, since these studies do not actually demonstrate an effect of OA but rather show sensitivity to CO2. Documenting an effect of OA involves showing a change in a species (e.g. population abundance or distribution) as a consequence of anthropogenic changes in marine carbonate chemistry. To date, there have been no unambiguous demonstrations of a population level effect of anthropogenic OA, as that term is defined by the IPCC.</dcterms:abstract>
+        <dc:date>July 10, 2016</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>fsw085</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/305270347_CO_2_sensitivity_experiments_are_not_sufficient_to_show_an_effect_of_ocean_acidification</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:41:47</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/McElhany - 2016 - CO 2 sensitivity experiments are not sufficient to.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/icesjms/article-pdf/74/4/926/28655143/fsw085.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:41:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_20">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>430</prism:volume>
+                <dc:title>Marine Ecology Progress Series</dc:title>
+                <dc:identifier>DOI 10.3354/meps09185</dc:identifier>
+                <dcterms:alternative>Marine Ecology Progress Series</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whiteley</foaf:surname>
+                        <foaf:givenName>N.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>Physiological and ecological responses of crustaceans to ocean acidification</dc:title>
+        <dcterms:abstract>The sensitivity of marine crustaceans to ocean acidification is poorly understood, but can be assessed by combining data from physiological and ecological studies. The species most at risk are exclusively marine and have limited physiological capacities to adjust to environmental change. They are poor iono- and osmoregulators and have limited abilities to compensate for acid-base disturbances. The problems are compounded in slow-moving, relatively inactive species because they have low circulating protein levels and low buffering capacities. Species living in low-energy environments, such as deep-sea and polar habitats, are particularly vulnerable, because they are metabolically limited with respect to environmental change. Elevated pCO 2 levels in seawater, such as those predicted for the year 2300, are known to have diverse effects on calcification rate, little effect on egg production and a negative effect on growth rate and moulting frequency in marine crustacean species. At these levels, embryonic development is negatively impacted, but larval and juvenile stages do not appear to be affected, unless the changes in pCO 2 are accompanied by rising temperatures. Overall, marine crustaceans are broadly tolerant to the seawater pCO 2 levels expected by 2100 and 2300, but only in the medium-term (weeks) and only in the more adaptable species. The reductions in growth rate are of concern, as these changes could affect species survival, distribution and abundance. Studies are urgently needed to evaluate whether the patterns of vulnerability identified here in crustaceans will still be relevant after long-term (months) exposure to the relevant pCO 2 levels, in combination with changes in other environmental factors.</dcterms:abstract>
+        <dc:date>May 26, 2011</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>257-271</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Whiteley - 2011 - Physiological and ecological responses of crustace.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Nm-Whiteley/publication/271252094_Physiological_and_ecological_responses_of_crustaceans_to_ocean_acidification/links/572333ec08aee491cb374cf3/Physiological-and-ecological-responses-of-crustaceans-to-ocean-acidification.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:42:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/271252094_Physiological_and_ecological_responses_of_crustaceans_to_ocean_acidification</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:42:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/nclimate1982">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1758-6798"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wittmann</foaf:surname>
+                        <foaf:givenName>Astrid C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pörtner</foaf:surname>
+                        <foaf:givenName>Hans-O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_24"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Biological sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ecophysiology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sensitivities of extant animal taxa to ocean acidification</dc:title>
+        <dcterms:abstract>Anthropogenic CO2 emitted to the atmosphere is absorbed by the oceans, causing a progressive increase in ocean inorganic carbon concentrations and resulting in decreased water pH and calcium carbonate saturation. This phenomenon, called ocean acidification, is in addition to the warming effects of CO2 emissions. Ocean acidification has been reported to affect ocean biota, but the severity of this threat to ocean ecosystems (and humans depending on these ecosystems) is poorly understood. Here we evaluate the scale of this threat in the context of widely used representative concentration pathways (RCPs) by analysing the sensitivities of five animal taxa (corals, echinoderms, molluscs, crustaceans and fishes) to a wide range of CO2 concentrations. Corals, echinoderms and molluscs are more sensitive to RCP8.5 (936 ppm in 2100) than are crustaceans. Larval fishes may be even more sensitive than the lower invertebrates, but taxon sensitivity on evolutionary timescales remains obscure. The variety of responses within and between taxa, together with observations in mesocosms and palaeo-analogues, suggest that ocean acidification is a driver for substantial change in ocean ecosystems this century, potentially leading to long-term shifts in species composition.</dcterms:abstract>
+        <dc:date>2013-11</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/nclimate1982</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:42:59</dcterms:dateSubmitted>
+        <dc:rights>2013 Nature Publishing Group</dc:rights>
+        <dc:description>Bandiera_abtest: a
+Cg_type: Nature Research Journals
+Number: 11
+Primary_atype: Research
+Publisher: Nature Publishing Group
+Subject_term: Biological sciences;Ecophysiology
+Subject_term_id: biological-sciences;ecophysiology</dc:description>
+        <bib:pages>995-1001</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1758-6798">
+        <prism:volume>3</prism:volume>
+        <dc:title>Nature Climate Change</dc:title>
+        <dc:identifier>DOI 10.1038/nclimate1982</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>Nature Clim Change</dcterms:alternative>
+        <dc:identifier>ISSN 1758-6798</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/24/nclimate1982.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/nclimate1982</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:43:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_25">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-136X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramaglia</foaf:surname>
+                        <foaf:givenName>Andressa Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Castro</foaf:surname>
+                        <foaf:givenName>Leandro Mantovani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Augusto</foaf:surname>
+                        <foaf:givenName>Alessandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_27"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Acidification</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ammonia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Animals</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brachyura</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Callinectes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Carbon Dioxide</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate Change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fishery</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Hemolymph</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hydrogen-Ion Concentration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Male</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Osmolar Concentration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Osmoregulation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Oxygen Consumption</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Penaeidae</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Seawater</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Xiphopenaeus</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Effects of ocean acidification and salinity variations on the physiology of osmoregulating and osmoconforming crustaceans</dc:title>
+        <dcterms:abstract>Survival, osmoregulatory pattern, oxygen consumption, energy spent on metabolism, ammonia excretion, type of oxidized energy substrate, and hepatosomatic index were evaluated in decapods (an osmoregulating crab, Callinectes danae, and an osmoconforming seabob shrimp, Xiphopenaeus kroyeri) exposed to carbon dioxide-induced water acidification (pH 7.3, control pH 8.0) and different salinities (20, 25, 30, 35, and 40‰) for 3 days. Compared to the animals kept at controlled pH, exposure to reduced pH resulted in the loss of osmoregulatory capacity in C. danae at all salinities, except for some hyporegulation at 40‰, and reduced oxygen consumption and ammonia excretion at 20 and 40‰. Xiphopenaeus kroyeri remained an osmoconformer in all evaluated conditions, except for some hyporegulation at 40‰, and when exposed to the reduced pH, it presented changes in oxygen consumption at all salinities and reductions in ammonia excretion at 20 and 35‰ compared to the control animals. Both species use protein as the main energy substrate and decrease the hepatosomatic index when exposed to reduced pH relative to the control. The observed changes may be associated with changes in the activity of enzymes related to osmoregulation, the use of amino acids as osmotic effectors of cell volume control and recovery, and the Bohr effect, and, because the gills are multifunctional organs related to osmoregulation, the changes may be related to acid-base control, nitrogen excretion, and respiration, with a change in one of these functions bringing about changes in the others.</dcterms:abstract>
+        <dc:date>2018-09</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 29948160</dc:description>
+        <bib:pages>729-738</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-136X">
+        <prism:volume>188</prism:volume>
+        <dc:title>Journal of Comparative Physiology. B, Biochemical, Systemic, and Environmental Physiology</dc:title>
+        <dc:identifier>DOI 10.1007/s00360-018-1167-0</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>J Comp Physiol B</dcterms:alternative>
+        <dc:identifier>ISSN 1432-136X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/29948160</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:43:42</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/Ramaglia et al. - 2018 - Effects of ocean acidification and salinity variat.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.unesp.br/bitstream/11449/176433/1/2-s2.0-85048359535.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:43:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_28">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>212</prism:volume>
+                <dc:title>Aquatic Toxicology</dc:title>
+                <dc:identifier>DOI 10.1016/j.aquatox.2019.05.003</dc:identifier>
+                <dcterms:alternative>Aquatic Toxicology</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nielson</foaf:surname>
+                        <foaf:givenName>Clara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hird</foaf:surname>
+                        <foaf:givenName>Cameron</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>Ceri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_29"/>
+        <link:link rdf:resource="#item_30"/>
+        <dc:title>Ocean acidification buffers the physiological responses of the king ragworm Alitta virens to the common pollutant copper</dc:title>
+        <dc:date>May 1, 2019</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/332991702_Ocean_acidification_buffers_the_physiological_responses_of_the_king_ragworm_Alitta_virens_to_the_common_pollutant_copper</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:44:46</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/Nielson et al. - 2019 - Ocean acidification buffers the physiological resp.pdf"/>
+        <dc:title>Accepted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ore.exeter.ac.uk/repository/bitstream/10871/38418/1/Nielson%20et%20al.%20Aquat%20Tox%20-%20accepted%20version.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:44:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_31">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2397-334X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas</foaf:surname>
+                        <foaf:givenName>Cristian A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lagos</foaf:surname>
+                        <foaf:givenName>Nelson A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lardies</foaf:surname>
+                        <foaf:givenName>Marco A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duarte</foaf:surname>
+                        <foaf:givenName>Cristian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manríquez</foaf:surname>
+                        <foaf:givenName>Patricio H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aguilera</foaf:surname>
+                        <foaf:givenName>Victor M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Broitman</foaf:surname>
+                        <foaf:givenName>Bernardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Widdicombe</foaf:surname>
+                        <foaf:givenName>Steve</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dupont</foaf:surname>
+                        <foaf:givenName>Sam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_32"/>
+        <link:link rdf:resource="#item_33"/>
+        <dc:title>Species-specific responses to ocean acidification should account for local adaptation and adaptive plasticity</dc:title>
+        <dcterms:abstract>Global stressors, such as ocean acidification, constitute a rapidly emerging and significant problem for marine organisms, ecosystem functioning and services. The coastal ecosystems of the Humboldt Current System (HCS) off Chile harbour a broad physical-chemical latitudinal and temporal gradient with considerable patchiness in local oceanographic conditions. This heterogeneity may, in turn, modulate the specific tolerances of organisms to climate stress in species with populations distributed along this environmental gradient. Negative response ratios are observed in species models (mussels, gastropods and planktonic copepods) exposed to changes in the partial pressure of CO2 (pCO2) far from the average and extreme pCO2 levels experienced in their native habitats. This variability in response between populations reveals the potential role of local adaptation and/or adaptive phenotypic plasticity in increasing resilience of species to environmental change. The growing use of standard ocean acidification scenarios and treatment levels in experimental protocols brings with it a danger that inter-population differences are confounded by the varying environmental conditions naturally experienced by different populations. Here, we propose the use of a simple index taking into account the natural pCO2 variability, for a better interpretation of the potential consequences of ocean acidification on species inhabiting variable coastal ecosystems. Using scenarios that take into account the natural variability will allow understanding of the limits to plasticity across organismal traits, populations and species.</dcterms:abstract>
+        <dc:date>2017-03-13</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 28812677</dc:description>
+        <bib:pages>84</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2397-334X">
+        <prism:volume>1</prism:volume>
+        <dc:title>Nature Ecology &amp; Evolution</dc:title>
+        <dc:identifier>DOI 10.1038/s41559-017-0084</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Nat Ecol Evol</dcterms:alternative>
+        <dc:identifier>ISSN 2397-334X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/28812677</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:45:13</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/Vargas et al. - 2017 - Species-specific responses to ocean acidification .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vliz.be/imisdocs/publications/300391.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:45:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.infona.pl/resource/bwmeta1.element.elsevier-a2d6d455-7cbc-38fb-a6e4-7eff373e052d">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_35"/>
+        <dc:title>Influence of elevated CO2 concentrations on thermal tolerance of the edible crab Cancer pagurus</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.infona.pl/resource/bwmeta1.element.elsevier-a2d6d455-7cbc-38fb-a6e4-7eff373e052d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:46:01</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/bwmeta1.element.html"/>
+        <dc:title>Influence of elevated CO2 concentrations on thermal tolerance of the edible crab Cancer pagurus</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.infona.pl/resource/bwmeta1.element.elsevier-a2d6d455-7cbc-38fb-a6e4-7eff373e052d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:46:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_36">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1879-3185"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vinken</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_37"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>5′-NT</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>5′-nucleotidase</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>adverse outcome (pathway(s))</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Adverse outcome pathway</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>alanine aminotransferase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>alkaline phosphatase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ALP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ALT</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Animals</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>AO(P)(s)</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>aspartate aminotransferase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>AST</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>bile salt export pump</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>BSEP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CAR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>carbohydrate response element binding protein</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CD36</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Chemical risk assessment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cholestasis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ChREBP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>constitutive androstane receptor</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CYP2B10/3A4/7A1</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>cytochrome P450 2B10/3A4/7A1</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>dehydroepiandrosterone sulfotransferase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>direct peptide reactivity assay</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DPRA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>farnesoid X receptor</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>FAS</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>fatty acid synthase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>fatty acid translocase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fatty Liver</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>FXR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>gamma-glutamyl transpeptidase</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>GGT</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>hCLAT</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hepatic Stellate Cells</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>human cell line activation test</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>In vitro test development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>liver X receptor</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>LXR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mechanistic toxicology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MIE</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mitochondrial permeability pore</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>molecular initiating event</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MPP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MRP2/3</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>multidrug resistance-associated protein 2/3</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MUSST</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>myeloid U937 skin sensitization test</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>NTCP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>OATP1B1</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>organic anion transporter 1B1</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>organic solute transporter α/β</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>OSTα/β</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>pregnane X receptor</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Prioritization strategies</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>PXR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>QSAR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>quantitative structure–activity relationship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Quantitative structure–activity relationship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SCD1</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SHP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Skin</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>small heterodimeric partner</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sodium/taurocholate cotransporter</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SREBP-1c</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>stearoyl-coenzyme A desaturase 1</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sterol response element binding protein 1c</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Structure-Activity Relationship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SULT2A1</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>TGF-β1</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Toxicology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>transforming growth factor beta 1</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>UGT2B4</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>uridine 5′-diphosphate-glucuronosyltransferase 2B4</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The adverse outcome pathway concept: a pragmatic tool in toxicology</dc:title>
+        <dcterms:abstract>Adverse outcome pathways (AOPs) are novel tools in toxicology and human risk assessment with broad potential. AOPs are designed to provide a clear-cut mechanistic representation of critical toxicological effects that span over different layers of biological organization. AOPs share a common structure consisting of a molecular initiating event, a series of intermediate steps and key events, and an adverse outcome. Development of AOPs ideally complies with OECD guidelines. This also holds true for AOP evaluation, which includes consideration of the Bradford Hill criteria for weight-of-evidence assessment and meeting a set of key questions defined by the OECD. Elaborate AOP frameworks have yet been proposed for chemical-induced skin sensitization, cholestasis, liver fibrosis and liver steatosis. These newly postulated AOPs can serve a number of ubiquitous purposes, including the establishment of (quantitative) structure-activity relationships, the development of novel in vitro toxicity screening tests and the elaboration of prioritization strategies.</dcterms:abstract>
+        <dc:date>2013-10-04</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>The adverse outcome pathway concept</z:shortTitle>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 23978457</dc:description>
+        <bib:pages>158-165</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1879-3185">
+        <prism:volume>312</prism:volume>
+        <dc:title>Toxicology</dc:title>
+        <dc:identifier>DOI 10.1016/j.tox.2013.08.011</dc:identifier>
+        <dcterms:alternative>Toxicology</dcterms:alternative>
+        <dc:identifier>ISSN 1879-3185</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/23978457</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:46:33</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/article/10.3389/fmars.2021.596644">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2296-7745"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tai</foaf:surname>
+                        <foaf:givenName>Travis C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sumaila</foaf:surname>
+                        <foaf:givenName>U. Rashid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheung</foaf:surname>
+                        <foaf:givenName>William W. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_39"/>
+        <dc:title>Ocean Acidification Amplifies Multi-Stressor Impacts on Global Marine Invertebrate Fisheries</dc:title>
+        <dcterms:abstract>Elevated atmospheric carbon dioxide (CO2) is causing global ocean changes and drives changes in organism physiology, life-history traits, and population dynamics of natural marine resources. However, our knowledge of the mechanisms and consequences of ocean acidification (OA) – in combination with other climatic drivers (i.e., warming, deoxygenation) – on organisms and downstream effects on marine fisheries is limited. Here, we explored how the direct effects of multiple changes in ocean conditions on organism aerobic performance scales up to spatial impacts on fisheries catch of 210 commercially exploited marine invertebrates, known to be susceptible to OA. Under the highest CO2 trajectory, we show that global fisheries catch potential declines by as much as 12% by the year 2100 relative to present, of which 3.4% was attributed to OA. Moreover, OA effects are exacerbated in regions with greater changes in pH (e.g., West Arctic basin), but are reduced in tropical areas where the effects of ocean warming and deoxygenation are more pronounced (e.g., Indo-Pacific). Our results enhance our knowledge on multi-stressor effects on marine resources and how they can be scaled from physiology to population dynamics. Furthermore, it underscores variability of responses to OA and identifies vulnerable regions and species.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/article/10.3389/fmars.2021.596644</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:47:04</dcterms:dateSubmitted>
+        <bib:pages>839</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2296-7745">
+        <prism:volume>8</prism:volume>
+        <dc:title>Frontiers in Marine Science</dc:title>
+        <dc:identifier>DOI 10.3389/fmars.2021.596644</dc:identifier>
+        <dc:identifier>ISSN 2296-7745</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_39">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/39/Tai et al. - 2021 - Ocean Acidification Amplifies Multi-Stressor Impac.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fmars.2021.596644/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:47:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n_MFGPEAAAAJ&amp;citation_for_view=n_MFGPEAAAAJ:d1gkVwhDpl0C">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_41"/>
+        <dc:title>‪Ocean acidification alters thermal cardiac performance, hemocyte abundance, and hemolymph chemistry in subadult American lobsters Homarus americanus H. Milne Edwards, 1837 (Decapoda: Malcostraca: Nephropidae)‬</dc:title>
+        <dcterms:abstract>‪AM Harrington, HJ Hamlin‬, ‪Journal of Crustacean Biology, 2019‬ - ‪Cited by 12‬</dcterms:abstract>
+        <z:shortTitle>‪Ocean acidification alters thermal cardiac performance, hemocyte abundance, and hemolymph chemistry in subadult American lobsters Homarus americanus H. Milne Edwards, 1837 (Decapoda</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n_MFGPEAAAAJ&amp;citation_for_view=n_MFGPEAAAAJ:d1gkVwhDpl0C</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:47:51</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/41/citations.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n_MFGPEAAAAJ&amp;citation_for_view=n_MFGPEAAAAJ:d1gkVwhDpl0C</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:47:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s00360-019-01227-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0174-1578,%201432-136X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>An</foaf:surname>
+                        <foaf:givenName>Dalen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Husovic</foaf:surname>
+                        <foaf:givenName>Aida</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ali</foaf:surname>
+                        <foaf:givenName>Laeequa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weddle</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nagle</foaf:surname>
+                        <foaf:givenName>Lilian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahearn</foaf:surname>
+                        <foaf:givenName>Gregory A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ocean acidification: synergistic inhibitory effects of protons and heavy metals on 45Ca uptake by lobster branchiostegite membrane vesicles</dc:title>
+        <dc:date>10/2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Ocean acidification</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s00360-019-01227-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:48:55</dcterms:dateSubmitted>
+        <bib:pages>513-521</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0174-1578,%201432-136X">
+        <prism:volume>189</prism:volume>
+        <dc:title>Journal of Comparative Physiology B</dc:title>
+        <dc:identifier>DOI 10.1007/s00360-019-01227-7</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>J Comp Physiol B</dcterms:alternative>
+        <dc:identifier>ISSN 0174-1578, 1432-136X</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_43">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>143</prism:volume>
+                <dc:title>Marine Pollution Bulletin</dc:title>
+                <dc:identifier>DOI 10.1016/j.marpolbul.2019.04.020</dc:identifier>
+                <dcterms:alternative>Marine Pollution Bulletin</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conradi Barrena</foaf:surname>
+                        <foaf:givenName>Mercedes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sánchez-Moyano</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galotti</foaf:surname>
+                        <foaf:givenName>Andréa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiménez Gómez</foaf:surname>
+                        <foaf:givenName>Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiménez-Melero</foaf:surname>
+                        <foaf:givenName>Raquel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guerrero</foaf:surname>
+                        <foaf:givenName>Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parra</foaf:surname>
+                        <foaf:givenName>Gema</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnail</foaf:surname>
+                        <foaf:givenName>Estefania</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delvalls</foaf:surname>
+                        <foaf:givenName>Angel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44"/>
+        <dc:title>CO 2 leakage simulation: Effects of the decreasing pH to the survival and reproduction of two crustacean species</dc:title>
+        <dcterms:abstract>The effects of CO 2 -related acidification on two crustacean populations, the isopod Cyathura carinata and the amphipod Elasmopus rapax, were studied. Three pH levels were tested: artificial seawater without CO 2 injection and two levels of reduced pH. Even though RNA:DNA ratio was reduced for both species, no statistical significant differences were found between the control and the treatments. Both species experienced a reduction in survivorship, longevity and the body length of surviving animals; although the impairment observed in E. rapax was more severe than in C. carinata. The long life span isopod and the short life span amphipod experienced a high degree of impairment in the reproduction, likely due to the reallocation of resources from reproduction to body maintenance and increasing survival by postponing the brood production. Regardless of the underlying processes and the energetic pathways, both experienced failure to reproduce, which could lead to the local extinction of these species.</dcterms:abstract>
+        <dc:date>April 22, 2019</dc:date>
+        <z:shortTitle>CO 2 leakage simulation</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>33-41</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/332564625_CO_2_leakage_simulation_Effects_of_the_decreasing_pH_to_the_survival_and_reproduction_of_two_crustacean_species</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:49:36</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_45">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1477-9145"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dickinson</foaf:surname>
+                        <foaf:givenName>Gary H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bejerano</foaf:surname>
+                        <foaf:givenName>Shai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salvador</foaf:surname>
+                        <foaf:givenName>Trina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Makdisi</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patel</foaf:surname>
+                        <foaf:givenName>Shrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Long</foaf:surname>
+                        <foaf:givenName>W. Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swiney</foaf:surname>
+                        <foaf:givenName>Katherine M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foy</foaf:surname>
+                        <foaf:givenName>Robert J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steffel</foaf:surname>
+                        <foaf:givenName>Brittan V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Kathryn E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aronson</foaf:surname>
+                        <foaf:givenName>Richard B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <link:link rdf:resource="#item_47"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Amorphous calcium carbonate (ACC)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Animals</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Biomineralization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brachyura</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Calcite</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Calcium Carbonate</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Crustacea</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cuticle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Exoskeleton Device</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Female</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hydrogen-Ion Concentration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Oceans and Seas</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Seawater</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Ocean acidification alters properties of the exoskeleton in adult Tanner crabs, Chionoecetes bairdi</dc:title>
+        <dcterms:abstract>Ocean acidification can affect the ability of calcifying organisms to build and maintain mineralized tissue. In decapod crustaceans, the exoskeleton is a multilayered structure composed of chitin, protein and mineral, predominately magnesian calcite or amorphous calcium carbonate (ACC). We investigated the effects of acidification on the exoskeleton of mature (post-terminal-molt) female southern Tanner crabs, Chionoecetes bairdi Crabs were exposed to one of three pH levels - 8.1, 7.8 or 7.5 - for 2 years. Reduced pH led to a suite of body region-specific effects on the exoskeleton. Microhardness of the claw was 38% lower in crabs at pH 7.5 compared with those at pH 8.1, but carapace microhardness was unaffected by pH. In contrast, reduced pH altered elemental content in the carapace (reduced calcium, increased magnesium), but not the claw. Diminished structural integrity and thinning of the exoskeleton were observed at reduced pH in both body regions; internal erosion of the carapace was present in most crabs at pH 7.5, and the claws of these crabs showed substantial external erosion, with tooth-like denticles nearly or completely worn away. Using infrared spectroscopy, we observed a shift in the phase of calcium carbonate present in the carapace of pH 7.5 crabs: a mix of ACC and calcite was found in the carapace of crabs at pH 8.1, whereas the bulk of calcium carbonate had transformed to calcite in pH 7.5 crabs. With limited capacity for repair, the exoskeleton of long-lived crabs that undergo a terminal molt, such as C. bairdi, may be especially susceptible to ocean acidification.</dcterms:abstract>
+        <dc:date>2021-02-05</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>PubMed</z:libraryCatalog>
+        <dc:description>PMID: 33436365</dc:description>
+        <bib:pages>jeb232819</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1477-9145">
+        <prism:volume>224</prism:volume>
+        <dc:title>The Journal of Experimental Biology</dc:title>
+        <dc:identifier>DOI 10.1242/jeb.232819</dc:identifier>
+        <prism:number>Pt 3</prism:number>
+        <dcterms:alternative>J Exp Biol</dcterms:alternative>
+        <dc:identifier>ISSN 1477-9145</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/33436365</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:51:05</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/47/Dickinson et al. - 2021 - Ocean acidification alters properties of the exosk.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.biologists.com/jeb/article-pdf/224/3/jeb232819/1816660/jeb232819.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-22 16:51:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

@@ -1,0 +1,801 @@
+
+Advertisement
+
+    plos.org
+    create account
+    sign in
+
+PLOS ONE
+
+    Publish
+        Submissions
+            Getting Started
+            Submission Guidelines
+            Figures
+            Tables
+            Supporting Information
+            LaTeX
+            What We Publish
+            Preprints
+            Revising Your Manuscript
+            Submit Now
+            Calls for Papers
+        Policies
+            Best Practices in Research Reporting
+            Human Subjects Research
+            Animal Research
+            Competing Interests
+            Disclosure of Funding Sources
+            Licenses and Copyright
+            Data Availability
+            Complementary Research
+            Materials, Software and Code Sharing
+            Ethical Publishing Practice
+            Authorship
+            Corrections, Expressions of Concern, and Retractions
+        Manuscript Review and Publication
+            Criteria for Publication
+            Editorial and Peer Review Process
+            Editor Center
+            Resources for Editors
+            Guidelines for Reviewers
+            Accepted Manuscripts
+            Comments
+    Submit Your Manuscript
+
+    Discover a faster, simpler path to publishing in a high-quality journal. PLOS ONE promises fair, rigorous peer review, broad scope, and wide readership – a perfect fit for your research every time.
+
+    Learn More Submit Now
+    About
+        Why Publish with PLOS ONE
+        Journal Information
+        Staff Editors
+        Editorial Board
+        Section Editors
+        Advisory Groups
+        Find and Read Articles
+        Publishing Information
+        Publication Fees
+        Press and Media
+        Contact
+    Browse
+    Search Search
+    advanced search
+
+    100
+    Save
+
+    Total Mendeley and Citeulike bookmarks.
+    32
+    Citation
+
+    Paper's citation count computed by Dimensions.
+    4,347
+    View
+
+    PLOS views and downloads.
+    12
+    Share
+
+    Sum of Facebook, Twitter, Reddit and Wikipedia activity.
+
+Open Access
+
+Peer-reviewed
+
+Research Article
+Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem
+
+    D. Shallin Busch ,
+    Paul McElhany
+
+Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem
+
+    D. Shallin Busch, 
+    Paul McElhany
+
+PLOS
+x
+
+    Published: August 11, 2016
+    https://doi.org/10.1371/journal.pone.0160669
+
+    Article
+    Authors
+    Metrics
+    Comments
+    Media Coverage
+
+    Abstract
+    Introduction
+    Materials and Methods
+    Results
+    Discussion
+    Supporting Information
+    Acknowledgments
+    Author Contributions
+    References 
+
+    Reader Comments (0)
+    Figures
+
+Abstract
+
+Ocean acidification (OA) has the potential to restructure ecosystems due to variation in species sensitivity to the projected changes in ocean carbon chemistry. Ecological models can be forced with scenarios of OA to help scientists, managers, and other stakeholders understand how ecosystems might change. We present a novel methodology for developing estimates of species sensitivity to OA that are regionally specific, and applied the method to the California Current ecosystem. To do so, we built a database of all published literature on the sensitivity of temperate species to decreased pH. This database contains 393 papers on 285 species and 89 multi-species groups from temperate waters around the world. Research on urchins and oysters and on adult life stages dominates the literature. Almost a third of the temperate species studied to date occur in the California Current. However, most laboratory experiments use control pH conditions that are too high to represent average current chemistry conditions in the portion of the California Current water column where the majority of the species live. We developed estimates of sensitivity to OA for functional groups in the ecosystem, which can represent single species or taxonomically diverse groups of hundreds of species. We based these estimates on the amount of available evidence derived from published studies on species sensitivity, how well this evidence could inform species sensitivity in the California Current ecosystem, and the agreement of the available evidence for a species/species group. This approach is similar to that taken by the Intergovernmental Panel on Climate Change to characterize certainty when summarizing scientific findings. Most functional groups (26 of 34) responded negatively to OA conditions, but when uncertainty in sensitivity was considered, only 11 groups had relationships that were consistently negative. Thus, incorporating certainty about the sensitivity of species and functional groups to OA is an important part of developing robust scenarios for ecosystem projections.
+Figures
+Fig 9
+Table 1
+Fig 1
+Fig 2
+Fig 3
+Fig 4
+Fig 5
+Fig 6
+Fig 7
+Fig 8
+Fig 9
+Table 1
+Fig 1
+Fig 2
+       
+
+Citation: Busch DS, McElhany P (2016) Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem. PLoS ONE 11(8): e0160669. https://doi.org/10.1371/journal.pone.0160669
+
+Editor: Christopher J. Gobler, Stony Brook University, UNITED STATES
+
+Received: February 20, 2016; Accepted: July 22, 2016; Published: August 11, 2016
+
+This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.
+
+Data Availability: All relevant data are within the paper and its Supporting Information files. All relevant data are also available from the NOAA Ocean Acidification Data Stewardship website: www.nodc.noaa.gov/oceanacidification .
+
+Funding: DSB and PM were funded by the National Oceanic and Atmospheric Administration's Northwest Fisheries Science Center and Ocean Acidification Program. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing interests: The authors have declared that no competing interests exist.
+Introduction
+
+Global oceans are changing due to the anthropogenically driven increase in atmospheric carbon dioxide concentrations [ 1 , 2 , 3 ]. Ocean acidification, the decline in pH and calcium carbonate saturation state due to increased dissolved carbon dioxide, has the potential to alter marine ecosystems, as indicated by the fossil record [ 4 ], modeling exercises [ 5 , 6 ], and contemporary laboratory and field observations. Modern day evidence from carbon dioxide (CO 2 ) vent sites documents community changes with increased CO 2 , such as a decline in calcifying species and increase in non-calcifying, photosynthetic species [ 7 , 8 , 9 ]. In areas with upwelling of high CO 2 /low pH waters, research has shown the sensitivity of the pteropod Limacina helicina and the Pacific oyster Crassostrea gigas to current carbon chemistry conditions [ 10 , 11 , 12 ]. Given the sensitivity of many modern species to carbonate chemistry conditions in the laboratory, especially bivalves and corals [ 13 , 14 , 15 ], we expect the effects of ocean acidification on marine species and ecosystems to increase.
+
+The majority of biological research related to ocean acidification focuses on direct effects on species, mostly in laboratory experiments. However, societal questions related to ocean acidification are much larger, scaling to concerns about food webs, ecosystems, and provisioning from marine resources [ 16 ]. Projections of ocean acidification impacts generated with ecological models can help develop understanding of the indirect effects of ocean acidification at large scales [ 5 , 17 , 18 ]. The utility of the output from such projection exercises is, among other things, dependent on how well the scenarios imposed on the model capture the direct effects of ocean acidification. Our ability to scale from results of laboratory studies to trajectories of populations in nature is currently limited for a variety of reasons [ 18 , 19 , 20 ]. For example, laboratory experiments are typically conducted on species in isolation with altered food and other environmental conditions, and usually limited to a few weeks. Thus, all but a handful of studies (e.g., [ 21 , 22 , 23 ]) do not capture multi-generation processes, such as adaptation and evolution. Furthermore, the published literature on species response to carbonate chemistry is small enough that one cannot develop comprehensive scenarios of acidification for a region based only on its native species and locally relevant current and projected future carbon chemistry treatments [ 24 , 25 ], thus forcing those developing scenarios to relate studies from around the globe to their region of interest. The limited literature on species response to carbonate chemistry also means that modelers will not have access to OA effects on the parameters most relevant to ecological models (e.g., survival or growth rate over an entire life stage), which requires that scenario developers relate results reported in the literature (e.g., calcification or respiration rate, change in gene expression) to the parameters that they can alter in the ecological model. Finally, most ecological models simulate the dynamics of groups of aggregated species, typically referred to as functional groups, instead of modeling each species in the ecosystem independently. Functional groups are often heterogeneous taxonomically, especially lower trophic level functional groups. The sensitivity of species in a given functional group to carbonate chemistry may vary widely in both direction and magnitude, which highlights the challenge of characterizing the response of a functional group as a whole.
+
+Our goal is to calculate the direction and relative magnitude of carbonate chemistry sensitivity of marine functional groups. Here we present an approach for developing estimates of the carbonate chemistry sensitivity of species or functional groups for use in scenarios of ocean acidification in ecological modeling exercises and apply this approach to functional groups in the California Current ecosystem. The aim of our approach is to summarize the weight and consistency of evidence for pH sensitivity of biota in the California Current, doing so by borrowing heavily from research in other regions on taxonomically distant species. We use this information to create a relative survival scalar, which is a value relating a functional group’s survival rate parameter to the pH condition of its environment. The relative survival scalar allows us to qualitatively rank groups in terms of their sensitivity to acidification. We focus on the qualitative nature of pH sensitivity rather than a formal meta-analysis of quantitative response. Although experiments show that some species are sensitive to calcium carbonate saturation state rather than pH per se [ 26 ], we conducted our analysis on pH sensitivity because pH is the parameter most commonly manipulated in published experimental studies and it tends to correlate tightly with other biologically relevant carbonate chemistry conditions in seawater (e.g., carbonate saturation state and pCO 2 ). Our approach develops a technique for sound incorporation of information of varied relevance to the California Current ecosystem and the ecosystem models used to study it. Furthermore, our approach explicitly addresses uncertainty in understanding of species response to acidification.
+
+In brief, we developed a database of all of the studies that document the response of temperate species to carbonate chemistry conditions that is current to January 1, 2015. This database includes information about the species studied, treatment conditions, the type of responses measured (e.g., survival, respiration, etc.), the direction of response related to increased acidification, and the relationship between directional response and population persistence. Here, we consider population persistence as the ability to, at least, maintain abundance in succeeding generations, through survival and reproductive success. Our approach is qualitative in nature, but allows translation of reported results from all studies into a common quantitative currency (population persistence) required for ecosystem modeling.
+
+We used the database to develop estimates of species sensitivity to carbonate chemistry for use in scenarios in an end-to-end ecosystem model of the California Current [ 27 , 28 , 29 ]. Output from scenario-based, ecosystem modeling exercises can provide valuable input into ecosystem and fisheries management and decision making by providing science-based estimates of alternative futures as part of management strategy evaluations [ 30 , 31 ]. Due to its position at the end of the ocean conveyer belt and in an upwelling region, the California Current is a region particularly prone to acidification [ 32 , 33 ]. It is also rich in marine resources, supporting valuable fisheries, recreation, and tourism industries [ 34 ]. Many of the region’s commercial fisheries are potentially directly susceptible to the impacts of ocean acidification (e.g., Dungeness crab ( Cancer magister ) [ 35 ], pink shrimp ( Pandalus jordani ) [ 36 ], bivalve aquaculture [ 10 ]) and others to the indirect impacts that may ripple through the food web.
+
+Our approach for developing estimates of carbonate chemistry sensitivity for the California Current ecosystem model emphasizes the relevance of studies to local species and ecology. As discussed by McElhany and Busch [ 24 ] and elsewhere, robust predictions of the effects of acidification on species require that control and treatment conditions well represent local current and projected future conditions, ideally with fluctuations in conditions that resemble local patterns in chemistry caused by tidal, diel, and other cycles. Observational studies, for instance from CO 2 vent sites with naturally acidified conditions, capture important aspects of ecological and population-level processes that are difficult to replicate in the laboratory, yielding more valuable information on species response in nature. Distinct from other global syntheses and meta-analyses [ 13 , 14 , 15 , 37 ], for this synthesis, we use criteria related to experimental design to weight how strongly a study informs the estimates of acidification in a particular region. For example, a 3-month study conducted on early life stages of a species distributed in and collected from the California Current that measured survival and growth in response to ecologically relevant control conditions would have more weight in the estimate than a week-long study that measures proteomics in adults of a species found only in the Mediterranean Sea.
+
+The methodology used to develop estimates acknowledges that the study of ocean acidification is a young field and, thus, we are still rapidly generating basic information to describe how and why species respond to carbonate chemistry conditions in the manner observed in the laboratory and in the wild [ 18 ]. Currently, the literature suggests that the response to changing carbonate chemistry can vary among experiments conducted on a single species, sometimes by population [ 38 ], or species that are closely related [ 39 , 40 ]. Until we understand what drives species response to carbonate chemistry conditions, characterizing variation and confidence in response is an important component of summarizing sensitivity for species or groups of species. This challenge of accurately portraying the state of our knowledge is also faced by those working on climate change, where it has received much attention by the Intergovernmental Panel on Climate Change (IPCC). The IPCC has developed a formal approach for characterizing certainty in scientific findings related to evidence and agreement [ 41 , 42 , 43 , 44 ], and we build off of this accepted and standardized approach in the synthesis methodology presented here.
+Materials and Methods
+Database
+
+We built a database of laboratory, mesocosm, and field studies on the response of temperate species to carbonate chemistry conditions ( S1 and S2 Databases). To search the literature, we used ISI Web of Science and relevant keywords such as ocean acidification, pH, and different names for various marine taxa. We used the European Project on Ocean Acidification (EPOCA) OA blog ( http://oceanacidification.wordpress.com/ ) and citations in published studies to find primary literature not captured in our queries of Web of Science. We included studies published or pre-released before January 1, 2015. Studies conducted in non-temperate locations on species that exist in temperate regions were included in the database, except for tropical, reef-forming coral species, as only cold-water corals occur in the California Current ecosystem. Studies using HCl or NaOH only to manipulate seawater chemistry were not included in the database because of the differences in carbon chemistry between this type of chemistry manipulation and manipulations using carbon dioxide [ 45 ]. The database includes two main sets of information:
+
+    For each species included in the database, we recorded taxonomic classification, distribution, presence/absence of calcium carbonate structures, and functional group in the California Current Atlantis ecosystem model [ 27 ] (functional groups described below).
+    For each manuscript included in the database, we recorded the 1) citation, 2) location where study subjects were collected, 3) methodology(ies) used to create and verify carbon chemistry treatments, 4) carbon chemistry of treatments, 5) species response to treatments (direction of response [e.g., growth decreases as pH decreases], not raw data), and 6) assessment of how the direction of response relates to population persistence.
+
+Each paper in the database could have multiple studies, where a study was a particular set of treatments applied to particular species and life stage. Each study in turn could have multiple response metrics , where a response metric is a measure of the species performance under treatment (e.g., survival, metabolic rate, proteomic expression). A response refers to a result from evaluation of a particular response metric in a particular study. The response is the basic unit for our analysis.
+Summarizing sensitivity to carbonate chemistry
+
+For this study, we considered the California Current ecosystem, and so adopted functional groups defined by the California Current Atlantis ecosystem model ([ 27 ]; S1 Table ). The Atlantis model domain extends from Triangle Island, off the north coast of Vancouver Island, British Columbia Canada, to Punt Eugenia, Baja California, Mexico; the shoreline to 200 nautical miles offshore; and the surface to the ocean floor. The Atlantis model excludes inland areas such as the Salish Sea and San Francisco Bay, but species composition in these regions overlaps with adjacent areas of the Atlantis domain. The Atlantis model does not capture the dynamics of exclusively inter-tidal species and communities. The functional groups used in the California Current Atlantis model reflect the model’s initial focus on fisheries management and the limited data available for model parameterization (i.e., abundance, prey consumption). These practical considerations led to somewhat eclectic groupings from a purely ecological or taxonomic perspective (e.g., the “Humboldt squid” functional group is a single species, while the “Large phytoplankton” functional group contains an ecologically diverse multitude of species). We excluded birds and marine mammals from this analysis as we did not find any studies documenting direct sensitivity to carbonate chemistry (OA effects on sound propagation are unlikely to harm marine mammals [ 46 ]). For our analysis, we created a “fish” group, which is a combination of all 31 bony fish functional groups in the ecosystem model. We did so because fish functional groups in this ecosystem model are highly resolved, more so than other functional groups in the model, and because literature on fish’s sensitivity to carbonate chemistry does not match the model’s level of specificity. Because multiple studies suggest that coralline algae are sensitive to carbonate chemistry, we included them as a functional group in our analysis, even though coralline algae are not a functional group in the Atlantis model.
+
+Our basic approach was to develop a survival scalar for each functional group that characterizes the relationship between survival and pH. Each survival scalar was based on a directional score and a confidence score ( S1 Fig ). The confidence score was composed of two components: evidence and agreement scores . All of these terms are defined below. The evidence/agreement approach to confidence was founded on the IPCC’s guidelines for characterizing certainty in scientific findings [ 41 , 42 , 43 , 44 ].
+
+The foundation for the directional, evidence, and agreement scores was the response score (shorted to rScore ). rScores are a weighted measure on a 0–1 scale of how well each response relates to survival of a functional group in the California Current Atlantis ecosystem model. An “ideal” response (e.g., well-conducted experiment on organisms collected in the California Current that directly measures long-term survival, etc.) would receive an rScore of 1. Most responses require some level of extrapolation to apply them to survival of a functional group in the California Current model (e.g., the experiment was conducted on a related species that does not occur in the California Current; the response metric was not immediately translatable into survival; etc.). The rScore for each response was calculated as the average of the component relevance values of 8 different categories of information in the database, each on a 0–1 scale: study environment, exposure duration, collection location, ability to measure population persistence, control pH treatment, minimum experimental pH treatment, relatedness to species in the California Current, distribution relative to the California Current, and response type. The scoring system for converting database entries into 0–1 component relevance values is in Table 1 . Each rScore was assigned a direction to define whether exposure to high CO 2 conditions resulted in an increase or decrease in population persistence, had no effect on population persistence, or if there was a more complex relationship. This complex relationship category is a combination of several subcategories, such as a category where the sign of response to CO 2 depends on a covariable. rScores in the complex relationship category were relatively rare and were not used in the analysis. For some studies, the relationship to population persistence could not be determined because there was no clear relationship between the response metric and population persistence.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 1. Scoring system used to define the relevance of a response to informing sensitivity of California Current species to changes in survival with decreased ocean pH.
+
+https://doi.org/10.1371/journal.pone.0160669.t001
+Directional score.
+
+The directional score for function group i is the net directional effect of exposure to high CO 2 as the fraction of total rScores: where, x is either the category “increase” or “decrease”, and summations are over all of the rScores for a given functional group i .
+
+By using rScores, the directional score gives the overall level of support for a directional effect when responses are weighted by the information they contain relative to survival of species in the California Current. The directional score is a continuous metric from -1 to +1, with –1 indicating all studies supporting a decrease in population persistence with increased CO 2 and +l indicating all studies supporting higher population persistence with increased CO 2 . A directional score of zero indicates an equal fraction of rScores in the increasing and decreasing population persistence categories. An increasing fraction of rScores in the no effect population persistence category or opposing population persistence responses will cause the directional score to tend toward zero.
+Evidence score.
+
+The evidence score for functional group i is the sum of all rScores for the functional group regardless of population persistence response category:
+
+It is a measure of the overall amount of information available relative to the effect of CO 2 on survival of the functional group. The evidence scores can be considered a count of the total number of responses for each functional group weighted by the relevance of the response to survival of species in the California Current. Thus, the evidence score contains information on both quantity and quality of available data.
+Agreement score.
+
+The agreement score measures similarity within a functional group in its response to increased CO 2 . It is a normalized, weighted metric based on the probability of drawing a pair of responses with the same direction from the set of functional group responses, and is similar to diversity indices. The raw agreement score is: where the first term of the function is the weighted probability that two random rScores are the same, the second term is the weighted probability that one random rScore is “no response” and the other is either “increasing” or “decreasing”, and the third term is the weighted probability that one random rScore is “increasing” and the other is “decreasing”. We weighted the terms because the population persistence categories are ordered, with the “no effect” category being between the “increase” and “decrease” categories. To capture this weighing, a is given a value of 1 indicating high consistency, b a value of 0.5 to reflect that a “no effect” response falls between an increase and a decrease and is of intermediate agreement, and c a value of 0 to indicate the opposite responses do not agree. Values for the raw agreement score can range between 0.5–1. To scale these from 0–1, we normalized their values:
+
+With this normalization, if the agreement score for the function group is 1, then all rScores are the same direction; if the agreement score for the functional group is 0.5, then the summed rScore value for no effect is the same as for either increase or decrease responses; and if the agreement score for the function group is 0, then the summed rScore values for increase and decrease responses are identical.
+Survival scalar.
+
+Survival scalars describe the direction and degree to which survival is affected by increased CO 2 , where the survival scalar for functional group i is: and the confidence score for the functional group is:
+
+We ln-transform the evidence score in the confidence score equation to prevent a few functional groups with very large evidence scores from dominating the normalization process. Using the confidence score to calculate the survival scalar for a functional group directly incorporates measurements of certainty into the scalar.
+
+The relative survival scalar is a normalized version of the survival scalar: the smallest survival scalar of all the functional groups was given a value of -1, and other relative survival scalars were assigned as:
+Estimates of CO 2 sensitivity for the California Current ecosystem model
+
+The relative survival scalars give relative sensitivity and direction of functional groups to carbonate chemistry conditions. However, they cannot be used directly as part of scenarios of ocean acidification in the California Current Atlantis model [ 31 ], as they are not in the proper form to input into the model. As a case study to show how the relative survival scalars could be used to inform scenarios of ocean acidification that drive response to pH in an ecosystem model, we developed pH survival sensitivity curves , which have pH on the x-axis and functional group pH sensitivity factor on the y-axis. The pH survival sensitivity curves can be used to modify functional group survival under scenarios of acidification, potentially by multiplying baseline survival in the model for a functional group by the value on the curve that corresponds to local pH conditions.
+
+To generate pH survival sensitivity curves , we defined a “reference relationship” between pH and species survival sensitivity and used the relative survival scalars to modify this reference relationship to account for the differential effect of pH among the various functional groups ( Fig 1 ). We based the reference relationship on the estimated sensitivity of the most negatively responding functional group in the model–in this case, benthic herbivorous grazers, which is comprised of snails, abalone, sand dollars, limpets, spot prawn, and non-fishery urchins. We chose a “hockey stick” shape for the reference relationship, which is one of a limited number of relationship shapes the Atlantis ecosystem model can accept for pH sensitivity relationships. To define the reference relationship, we assumed that at current average pH conditions in the California Current over the decade from 2011–2020 (pH 8.0, Marshall et al., in review), survival would be identical to the current baseline model parameterization (i.e., OA survival sensitivity factor = 1). We held this constant for all functional groups. After reviewing the published data on response to CO 2 in the database we built, we set pH 7.0 as the point at which survival sensitivity factor of benthic herbivorous grazers reaches zero (i.e., survival of benthic herbivorous grazers would drop to zero below pH 7). These two points (survival sensitivity factor of 1 at pH 8.0 and survival sensitivity factor of 0 at pH 7.0) define the reference slope of the hockey stick function for the reference relationship ( Fig 1 ). We assumed that survival would be slightly higher at pH conditions higher than average because calcification and other processes can be favored at higher pH, which corresponds to a higher calcium carbonate saturation state. We assumed that the maximal survival sensitivity factor would be 1.1, reflecting a maximum 10% increase in survival under high pH conditions for all functional groups. Here, survival is a unitless scalar which can be translated to the time step of different ecological models, as appropriate. To generate the survival response relationships for all other functional groups in the California Current Atlantis ecosystem model, we multiplied this reference slope by the functional groups’ survival scalars, allowing the curve to pivot around the average conditions point (at pH 8.0, pH sensitivity factor = 1) with a minimum survival sensitivity factor value of zero and a maximum survival sensitivity factor of 1.1 when pH > 8.0. Functional groups that increase survival with increased CO 2 were allowed to have sensitivity factors greater than 1.1 at low pH to reflect potential increased productivity for these groups.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 1. Reference curve.
+
+Reference curve for the survival response of a generic functional group to pH conditions.
+
+https://doi.org/10.1371/journal.pone.0160669.g001
+
+We used the confidence score to generate “high” and “low” pH sensitivity estimates to provide some uncertainty bounds on the ecosystem model output. These alternate estimates were based on changing the pH survival sensitivity curves using the confidence score for each functional group to manipulate the slope of the hockey-stick relationship. We call this slope error and calculate it by first normalizing the confidence score of each functional group i and reversing the scale so that the functional group with the greatest confidence score has a slope adjustment coefficient of zero:
+
+The slope error is then calculated as:
+
+The s 2 parameter describes the baseline slope error for the “best” functional group that has the least error (i.e., when the slope adjustment coefficient = 0). The sum of s 1 and s 2 is the maximum error if a functional group had a confidence score of zero (i.e., slope adjustment coefficient = 1). For initial estimates, we tested cases where s 1 and s 2 were set at 0.2 and 0.3, respectively. Slope error can be added and subtracted from the pH survival sensitivity curves to generate high and low sensitivity estimates, respectively. This approach should be interpreted as providing a relative assessment of curve confidence among functional groups that is suitable for gaming scenarios with the ecosystem model. However, the approach ignores many other potential sources of uncertainty to the pH survival sensitivity curves.
+Results
+Literature on carbonate chemistry sensitivity studies
+
+The database contains 393 papers, 847 studies, and 3,158 responses on the sensitivity of temperate species to carbonate chemistry conditions. Response to carbonate chemistry conditions was characterized for 285 species and 89 multi-species groups in 220 genera, 185 families, 100 orders, and 36 classes. Seventy-five percent of these studies were done on twenty species groups, with the greatest number of studies done on urchins and oysters ( Fig 2a ). The most frequently measured response parameters were related to growth (14%) and survival (13%), though many responses were related to body composition, metabolism, photosynthesis, and calcification (each 11%; Fig 2b ). The majority of studies used adults as study subjects (64%, Fig 2c ). Juvenile and larval life stages were also well represented as study subjects (19% and 11%, respectively).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 2. Description of database content.
+
+(a) Percent of studies in the database of literature on species sensitivity to carbonate chemistry conditions by colloquial species group. We use colloquial groups (e.g., urchin, fish, coral), instead of taxonomy or Atlantis functional groups, to guide groupings in Fig 2a because of management and research interest in these groups. The top twenty groups shown here comprise 75% of the studies in the database. Number of responses for (b) each response type and (c) life stage in the database of literature on species response sensitivity to carbonate chemistry conditions.
+
+https://doi.org/10.1371/journal.pone.0160669.g002
+
+Almost a third of the species included in the database occur in the California Current ecosystem (29% native species, 2% introduced species; S2 Fig ). However, a large portion of the database of study species was comprised of multispecies groups and poorly studied phytoplankton or bacteria (26%); we were unable to determine whether these species occur in the California Current. While California Current species were well represented in the database, study subjects collected from the California Current comprised a smaller portion of the responses (13%; S2 Fig ). This result suggests that published papers on species from the California Current include fewer response metrics (e.g., calcification, respiration rate, gene expression) than published papers on species from other parts of the world. The number of responses for each functional group in the Atlantis ecosystem is highly uneven, with the most numerous responses for the following functional groups: bivalves (17%, 12 response types), coccolithophores (11%, 10 response types), benthic herbivorous grazers (9%, 11 response types), and large phytoplankton (9%, 11 response types; Fig 3 ). A major gap in the literature is the lack of any published studies characterizing the sensitivity of 6 functional groups to carbonate chemistry (octopus, cephalopod (which excludes Humboldt squid ( Dosidicus gigas ) and market squid ( Doryteuthis opalescens )), large demersal sharks, miscellaneous pelagic sharks, skates and rays, black coral).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 3. Response types for each functional group.
+
+The number of responses for each response type for each functional group. The darker the cell, the more responses for the response type, with dark orange being 100 and bright yellow being 0.
+
+https://doi.org/10.1371/journal.pone.0160669.g003
+
+Control conditions for studies in the database reflect the global average surface pH condition of ~8.1 (mean ± SD = 8.09±0.12, median = 8.10; Fig 4a ). Given that current average pH conditions where most species live in the California Current (<100m) is lower than the global average (pH ~8.0 from Marshall et al., in review; see also [ 32 , 33 , 47 ]), most experiments in the database have control conditions that are higher than appropriate for the California Current. While some acidification treatment conditions used in experiments are too extreme to be relevant to future carbon chemistry conditions in the California Current, most are in a range relevant to informing species response to predicted future pH conditions in the region [ 33 ]; mean ± SD = 7.70±0.38, median = 7.76; Fig 4b ).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 4. pH conditions used in studies in database.
+
+The distribution of (a) control pH and (b) minimum experimental pH for studies included in the database of literature on species response to ocean acidification, by functional group. Each study is indicated by a small point, with the line being the median of the distribution, the box the 25–75% quartiles, the whiskers 1.5 times the interquartile range [ 48 ], and the large points the outliers.
+
+https://doi.org/10.1371/journal.pone.0160669.g004
+
+Most studies in the database were run for longer than two weeks (median duration = 17 days), with an average study duration of over six weeks (average study duration ± standard deviation = 44 ± 91 days; Fig 5 ). A handful of studies ran for a year or more.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 5. Duration of studies in database.
+
+The distribution of study duration for studies included in the database of literature on species response to ocean acidification, by functional group. Each study is indicated by a small point, with the line being the median of the distribution, the box the 25–75% quartiles, the whiskers 1.5 times the interquartile range [ 48 ], and the large points the outliers.
+
+https://doi.org/10.1371/journal.pone.0160669.g005
+Summarizing response to increased CO 2
+
+Directional scores for the functional groups in the California Current ecosystem model ranged from -1.0 to 0.36 ( Fig 6a , S2 Table ). Most functional groups had a negative directional score (n = 26), indicating that studies in the database find that increased CO 2 conditions have generally negative population persistence consequences for these groups. Some functional groups had positive directional scores (microphytobenthos, small phytoplankton, microzooplankton, macroalgae, benthic bacteria, gelatinous zooplankton, deep benthic filter feeders and seagrass), suggesting that studies in the database find that increased CO 2 conditions have generally positive population persistence consequences for far fewer groups. Those groups with positive scores were a mix of autotrophs and heterotrophs. Three autotroph groups had negative scores (coralline algae, coccolithophores, large phytoplankton). The Humboldt squid functional group had a directional score of -1.0, indicating that all responses in the one study on the species agreed that increased CO 2 conditions have negative population persistence consequences for the species in laboratory settings.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 6. Scores summarizing response to increased CO 2 .
+
+(a) Directional, (b) evidence, and (c) agreement scores and (d) relative survival scalar for each functional group, ordered by relative survival scalar values.
+
+https://doi.org/10.1371/journal.pone.0160669.g006
+
+Evidence scores for the functional groups ranged from 1.55 to 332.67, reflecting a large amount of variation in the number of responses for each functional group and how relevant the responses are to informing survival of California Current species ( Fig 6b , S2 Table ). For comparison, response number for the functional groups ranged from 2 to 487 ( S2 Table ). The distribution of evidence scores was not even over its range: nine functional groups had scores less than 10, 13 between 10–50, five between 50–100, six between 100–200, and one with a score over 200. Bivalves and coccolithophores had the highest evidence scores and Humboldt squid and microphytobenthos the lowest evidence scores.
+
+Normalized agreement scores ranged between 0.1 and 1, with four functional groups falling in the upper third of scores (0.66–1) suggesting good agreement among responses, 21 groups in the middle third of scores (0.33–0.65) suggesting little differentiation between no effect responses and directional responses, and nine groups in the lower third of scores (0–0.32) suggesting a relative balance between increase and decrease responses ( Fig 6c , S2 Table ). Six of the nine responses in the bottom third of the scores (poor agreement in direction of response) were autotrophs. Of the four groups in the upper third of scores (good agreement in direction of response), two were single species squid groups and the others were pelagic bacteria and meiobenthos.
+
+Relative survival scalars ranged from -1.0 to 0.20. The benthic herbivorous grazers functional group had the lowest raw survival scalar and was used as the reference for calculating the relative scalar. By design, the sign of scores mirrored that seen in the directional scores: 26 functional groups had negative relative survival scalars and eight had positive scalars ( Fig 6d , S2 Table ). The four functional groups with the most negative scalars were: benthic herbivorous grazers, mesozooplankton, bivalves, and pteropods. Those with the most positive scalars were: benthic bacteria, gelatinous zooplankton, deep benthic filter feeders, and seagrass. Confidence scores, a component of the relative survival scalars, ranged between 0.07–2.52, with 12 functional groups below a score of 1, 16 between scores of 1–2, and six between scores of 2–3 ( S2 Table ). Higher confidence scores indicate greater evidence on species sensitivity to carbonate chemistry and/or agreement among exiting evidence.
+Estimates of pH sensitivity for the California Current ecosystem model
+
+For 26 functional groups in the California Current ecosystem model, survival declined as pH declined, and, for 8 functional groups, the opposite was true (Figs 7 and 8 , S3 Fig ). When slope error was applied to and error bands drawn around the pH survival sensitivity curves, the possible slopes for 23 functional groups included a slope of zero (no effect of pH) and the possible slopes for 11 functional groups were entirely above zero (negative effect of pH; Fig 8 , S3 Fig ).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 7. Examples of pH survival sensitivity curves.
+
+pH survival sensitivity curves for select functional groups in the California Current ecosystem model, (a,b) functional groups with the most negative response to increased CO 2 , (c,d) functional groups closest to the median sensitivity, and (e,f) functional groups with the most positive response to increased CO 2 .
+
+https://doi.org/10.1371/journal.pone.0160669.g007
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 8. pH survival sensitivity curve slope and error.
+
+The slope and slope error for the pH survival sensitivity curves for functional groups in the California Current ecosystem model for which published literature exists on species response to carbonate chemistry conditions.
+
+https://doi.org/10.1371/journal.pone.0160669.g008
+Discussion
+
+This study demonstrates a novel method for translating literature on species response to carbonate chemistry conditions into relationships that can be used in ecological modeling scenarios. The method fully embraces uncertainty in species response due to both a lack of knowledge and conflicting results from laboratory studies. By incorporating all available information on temperate species sensitivity to carbonate chemistry conditions and weighting it by its relevance to informing survival of functional groups in the California Current ecosystem, we were able to develop estimates of pH sensitivity tailored to this region, even under data limitation. Our focus on the relevance of studies to the estimates is a distinguishing factor between this work and more traditional syntheses and meta-analyses. The amount of data available to inform the sensitivity of each functional group was highly variable as was the consistency in whether low pH conditions had a positive or negative affect on population persistence. These evidence and agreement scores could be used to inform research priorities for laboratory and field investigations of species sensitivity to carbonate chemistry conditions. As expected given the prevailing tone of literature about ocean acidification, most functional groups (26 of 34) responded negatively to increased CO 2 conditions (e.g., negative relative survival scalar), including two autotrophic functional groups. However, when uncertainty in sensitivity is considered, only 11 groups had curve distributions that were always negative, suggesting that variation in sensitivity is an important consideration to our overall understanding of the impacts of ocean acidification. We encourage others to use the database and methods presented in this paper in other regional modeling efforts.
+Literature on species sensitivity to carbonate chemistry
+
+The literature related to ocean acidification may be biased against studies finding no response to pH [ 49 ]. We have no way to quantify such a potential bias, but the consequence for our analysis would an overestimate of the sensitivity of functional groups to pH. From this study, we were able to identify trends in the literature, some of which may reflect specific biases. The literature on the response of temperate species suggests strong bias towards work on cultivated shellfish species (e.g., oysters, mussels, clams) and on urchins and coccolithophores, groups that have been the subject of extensive laboratory research for other disciplines. This bias is constructive for efforts to help the shellfish industry adapt to ocean acidification [ 50 ] and to understand the basic biochemical and physiological processes that define sensitivity to carbonate chemistry conditions (e.g., [ 26 , 39 , 51 ]). However, the current taxonomic distribution of studies makes it challenging to characterize potential ecosystem response to ocean acidification, for little is known about how ecologically important species in marine food webs, like krill, copepods, squid, forage fish, and the dominant phytoplankton groups, respond. For example, the mesozooplankton group, which is largely copepods, had 59 responses in the published literature, while bivalves had 493 responses. That said, studying the carbonate chemistry sensitivity of many similar species (e.g., urchins) or many populations in a single species can help define the range of responses in a species or species group, providing valuable information about how to generalize results on response to acidification. The literature also shows a bias towards research on adults, rather than early life stages. While adults are often easier to work with in experimental settings, early life stages are likely more sensitive to ocean acidification [ 52 ]. For this reason, the literature on species sensitivity to carbonate chemistry conditions may not well represent the response of the most sensitive life stages, which could result in inaccurate characterization of species sensitivity.
+
+Studies in the literature database had varied relevance to survival of California Current species to ocean acidification. We were surprised that almost a third of the species in the database occur in the California Current, and expect that this result reflects the large amount of attention that the issue of ocean acidification has gotten in the region in the scientific and environmental communities (e.g., [ 53 ]). However, the treatments considered representative of the present day (e.g., “controls”) use pH conditions that are too high to well represent California Current waters, given that pH in this region is lower than in many other areas of the ocean [ 24 , 32 , 33 ]. This mismatch between conditions in the California Current and control treatments used in most experiments of species response makes relating the results of these studies to California Current species and ecosystems complex. It is also one of the reasons why we did not apply standard meta-analysis techniques for summarizing species response to treatment (i.e., calculating the effect size of treatment versus control conditions) to develop results for our region of interest. We used a pH range of 7.8–8.1 to represent “average”, control pH levels in the area containing the majority of species ( Table 1 ). Given the high variability of pH in the California Current, future analysis could be improved by defining control conditions at finer spatial and temporal scales and relating pH conditions to habitats used by particular species or functional groups.
+
+The duration of experiments included in the database was longer than we expected. Experiments that run for two to three weeks can capture all or a significant portion of the early life stages of the many marine species included in the database, but represent just a fraction of the adult life stages of the same species, the life stage on which most experiments in the database were conducted. Thus, while experiments that last between two to six weeks (the median and mean of studies in the database) may be able to capture processes of shock and acclimation to increased CO 2 conditions, especially for physiological processes like acid-base balance and possibly calcification, they likely will not capture the growth and survival response of adults well, except for those species with very short life cycles. That said, results from studies that expose species to increased CO 2 conditions for a few hours to a couple of weeks do have special relevance to upwelling areas, like the California Current, where upwelling winds can cause low pH waters to invade shallow, near shore areas for time frames of similar duration (e.g., [ 10 , 54 ]). Studies in the database conducted in less than a minute or an hour typically focus on very early processes in the life cycle, such as sperm motility or egg fertilization and cleavage, where such short time frames are likely appropriate for understanding of short-duration physiological processes. Few studies, mostly on phytoplankton, were long enough to capture multigenerational effects.
+Synthesis of species response to carbonate chemistry conditions
+
+Because of the relatively limited amount of information to characterize the response of all functional groups in the California Current to carbonate chemistry conditions, a quantitative approach to assigning sensitivity and response was unrealistic. The qualitative approach used here instead emphasizes the amount of information available on each species group and the direction and consistency of this response. We expect that the information on sensitivity to carbonate chemistry conditions generated from this exercise, when combined with estimates of exposure (i.e., spatial overlap with low pH/high CO 2 conditions), could be translated into risk assessment exercises [ 55 , 56 ]. A related effort has applied a similar approach to four California Current taxa to better understand their risk to ocean acidification [ 57 ]. Because our approach to determining certainty in our understanding of species response to carbonate chemistry conditions mirrors that taken by the IPCC, it should be approachable by non-scientific audiences interested in the impacts of ocean acidification on marine ecosystems. For example, the evidence and agreement scores we assigned to functional groups for this project could be mapped onto the IPCC grid diagram used to display scientific certainty, though the boundaries used to define the limited, moderate, and robust evidence and low, medium, and high agreement would need input from social scientists ( Fig 9 ).
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 9. Charactering confidence in scientific findings.
+
+(a) The degree of confidence in scientific findings is defined by the Intergovernmental Panel on Climate Change as depending on levels of evidence and agreement and their relationships to increasing confidence. Reprinted from Field et al. [ 58 ] under a CC BY license, with permission from Cambridge University Press, original copyright 2014. (b) The evidence and agreement score for each functional group is plotted in a manner similar to (a) with hypothetical bins for levels of evidence and agreement indicated by dotted lines. Each point is labeled with a functional group code: BB = Benthic bacteria, BC = Carnivorous infauna, BD = Deposit feeders, BFD = Deep benthic filter feeders, BFF = Bivalves, BFS = Shallow benthic filter feeders, BG = Benthic herbivorous grazers, BMD = Sea stars moonsnail whelk, BML = Crabs, BO = Meiobenthos, CA = Coralline algae, COC = Coccolithophore, DOG = Spiny dogfish, DUN = Dungeness crab, FSH = Fish, HSQ = Humboldt squid, MA = Macroalgae, MB = Microphytobenthos, MSQ = Market squid, NUR = Nearshore sea urchins, PB = Pelagic bacteria, PL = Large phytoplankton, PS = Small phytoplankton, PSP = Pandalid shrimp, PTE = Pteropods, PWN = Crangon shrimp, SCR = Soft corals, SG = Seagrass, SHB = Small demersal sharks, TCR = Stony corals, ZG = Gelatinous zooplankton, ZL = Large zooplankton, ZM = Mesozooplankton, ZS = Microzooplankton.
+
+https://doi.org/10.1371/journal.pone.0160669.g009
+
+The relative sensitivity ranking of functional groups in this study was somewhat consistent with previous meta-analyses, but differed in important ways. For example, of the 11 functional groups that responded most negativity to decreasing pH (curve distributions that were always negative), nine produce calcium carbonate structures, indicating the potentially high sensitivity of calcifiers. The high sensitivity of calcifiers has been noted in other meta-analyses [ 13 , 14 ], and there is an identifiable mechanism for their response to increased CO 2 (e.g., [ 59 ]). Unlike Wittman and Pörtner [ 15 ], we found that four of six crustacean-dominated functional groups (mesozooplankton, crabs, Crangon shrimp, Dungeness crab) were also in this most sensitive group. Most surprising was that the crustacean mesozooplankton group (largely copepods) had the second highest absolute value sensitivity value. The high sensitivity was driven by the second lowest directional score (-0.67) and the fifth highest confidence score (2.03) ( S2 Table ). The directional score was based on there being twice as many negative rScores as no-effect rScores for the group, and, unlike most functional groups, there were no responses that indicated a positive effect of increased CO 2 . Although we do not have high confidence in the exact rankings in the study (the slope errors overlap for the eight most sensitive species), this result suggests the need for more study on the sensitivity of mesozooplankton. We found fish to have only a moderate sensitivity, counter to the results in Wittman and Pörtner [ 15 ], which found fish to have high sensitivity. Most primary producer functional groups were at the bottom of the relative sensitivity ranking, and all but two primary producer groups (coralline algae, coccolithophores) had pH sensitivity curve slopes close to zero or that increased with decreasing pH. This result provides limited support for the potential stimulatory effect of ocean acidification on primary producers ([ 13 , 14 ], but see [ 60 ]). The phytoplankton groups all had pH sensitivity values near zero, but with a slight indication of higher survival at low pH for small phytoplankton, a finding generally consistent with Dutkiewicz et al. [ 61 ]. Four heterotrophic groups had pH sensitivity curve slopes that increased with decreasing pH (microzooplankton, benthic bacteria, gelatinous zooplankton, and deep benthic filter feeders), suggesting a potential positive impact of ocean acidification, but each had little evidence on which to base this characterization and the mechanisms of this potential enhancement are uncertain. Our analysis did not explicitly consider the severity of measured responses to increased CO 2 , only the direction, which may account for some of the differences between our results and those of other meta-analyses.
+
+We chose to incorporate the confidence score when calculating survival scalars to directly incorporate measurements of certainty into the scalar. An alternative approach would have been to use the directional score as a point estimate and the confidence score to develop bounds around that estimate. We directly incorporated the confidence score so that functional groups with very little data would have a lower survival scalar, tending towards no effect, and groups with ample data could achieve larger absolute survival scalars. For example, Humboldt squid comprise a single-species functional group in the California Current ecosystem model, and there was one study on this species in the database, which has two responses (both negative). The Humboldt squid functional group had the largest absolute directional score (-1.0) of all functional groups, but also the lowest evidence score (1.5). Because we accounted for the low evidence score of this functional group when calculating its survival scalar, about a third of the other functional groups in the model had larger absolute survival scalars than it did. In contrast, the bivalve functional group had a much higher evidence score than any other functional group, but a lower directional score than many other groups because of the many “no effect” results for studies on the species in this group. For this reason, it did not have the highest absolute survival scalar. The group with the highest scalar, benthic herbivorous grazers, had a lower evidence score and a similar agreement score, but a more negative directional score than the bivalve functional group.
+
+The study of species response to carbonate chemistry conditions is a young scientific effort, and scientists are developing the bounds of potential responses [ 18 ], some of which are likely to be unexpected (e.g., [ 62 , 63 ]). The exploratory nature of the field leads some scientists to measure a variety of responses during their experiments, which may bias our agreement score, resulting in the large number of functional groups that have agreement scores indicating a balance between no effect responses and directional responses. The balance of “no effect” responses to directional responses might change in the future, but until then, syntheses that characterize species response to ocean acidification should well capture the large number of “no effect” results in the literature.
+
+This project elucidates some of the current difficulties in developing scenarios of species sensitivity to carbonate chemistry conditions for use in ecosystem modeling. Developers of this California Current ecosystem model modified the model to make it more amenable for running scenarios of ocean acidification. For example, the model was altered to accept simple curves of the impacts of pH on functional groups and to split out functional groups for some groups known to be sensitive to carbonate chemistry (e.g., pteropods, coccolithophores; [ 27 ]). Even with these changes, challenges remain with the functional groups in the model because most lower-trophic level groups are highly aggregated and taxonomically diverse and there is poor understanding of the proportional biomass of individual species in each group. Thus, it is difficult to know which taxonomic group in the functional group the ocean acidification estimate should resemble most. Even if we did have perfect knowledge on the composition of each functional group in the model, we lack knowledge on the sensitivity to carbonate chemistry conditions of many ecologically important groups, such as gelatinous species and other non-calcifying zoo- and phytoplankton. For many lower-level trophic groups it is challenging to know the direction of response to increased CO 2 conditions, let alone the magnitude, though this is the target for which scientists are shooting. We encourage experimentalists to choose study subjects for carbonate chemistry sensitivity experiments based, in part, on their role and biomass in the ecosystem, for little is currently known about many functional groups that dominate biomass (e.g., large zooplankton, benthic bacteria; S4 Fig ). Conversely, like most food web models, the California Current ecosystem model has high resolution in upper trophic level fish groups. Literature on the response of fish species to carbonate chemistry conditions is limited, and only a handful of fish species from the California Current have been evaluated. Thus, the fish functional groups in the model are more refined than our knowledge on pH response. To deal with this mismatch of information, in this exercise, we developed a pH survival sensitivity curve for all bony fish species together. Finally, most ecological models, including the Atlantis ecosystem model, focus more on adults and post-larval juvenile stage than very early life stages. Explicitly incorporating the dynamics of early life stages in ecosystem models would improve characterizations of the impacts of ocean acidification on ecosystems by allowing the sensitivity of these stages to changing carbonate chemistry to be directly captured in scenarios.
+
+We developed a methodology that could generate species sensitivity relationships for a number of different model parameters, but here created estimates only for the sensitivity of species survival due to limitations in the Atlantis ecosystem model code. For example, scoring systems could be developed to assess the relevance of existing literature to modeling the sensitivity of growth, body composition, or reproductive success to ocean acidification, and we encourage other modelers to do so with the information provided in this paper. In addition, as more data on species sensitivity to carbonate chemistry becomes available, it would be appropriate to modify the method for assigning relevance to each of the responses. For example, future analyses could consider whether the study was pseudo-replicated [ 64 ] or could apply a different response score to various response data (e.g., calcification, gene expression) once its relationship to the parameter of interest (e.g., survival, growth) is clarified ( Table 1 ). The approach we used to translate the relative survival scalars into pH survival sensitivity curves with errors is one of many possible options. For example, the reference relationship could be developed using a carbonate chemistry parameter other than pH (e.g., aragonite saturation state) or drawn with shapes other than the hockey stick, and uncertainty in the curve could be captured with techniques other than the slope error estimation. We caution that although the sensitivity curves may appear precise, we do not consider them so, and place more weight in the relative sensitivity of functional groups than the sensitivity curve of a single functional group.
+Translating results
+
+Translating results from short-term laboratory studies to projections of future population processes or dynamics is a difficult exercise, and the results of such studies are rarely correct [ 20 ]. While this disconnect is a reality for ocean acidification research, there is a demand for whole ecosystem understanding of the impacts of ocean acidification to inform management and policy options. Output from ecological modeling exercises, while lacking precision and accuracy, is still more robust than output from qualitative, conceptual models that are made without the assistance of vast databases of ecological and environmental information.
+
+Our analysis focused exclusively on sensitivity to carbonate chemistry. To develop realistic predictions of ecosystem response to future conditions, one must consider the entire suite of changing environmental parameters, particularly climate-change driven shifts in temperature and dissolved oxygen. These parameters often have greater effects on survival than pH [ 49 ] and strongly co-vary with pH [ 65 ]. A critical question not addressed by our analysis (and one for which there are only limited data to answer) is whether pH interacts in non-additive ways with these other potential environmental stressors to affect survival.
+
+Considerable care is needed when designing scenarios of species response to changing environmental conditions, for output from projection efforts is highly dependent on them. The methods for developing estimates of species sensitivity to carbonate chemistry presented in this paper incorporate all of the currently available information on species sensitivity from laboratory and field studies, weight the information by relevance to a single ecosystem, and incorporate information about the amount of and agreement in available evidence. As such, the estimates developed inherently account for certainty in our current understanding of species sensitivity.
+Supporting Information
+
+Estimates of the Direct Effect of Seawater pH on the Survival Rate of Species Groups in the California Current Ecosystem
+
+Showing 1/10: S1 Database.ACCDB
+Skip to fig share navigation
+sorry, we can't preview this file
+1 / 10
+Download
+fig share
+Microsoft Access database of literature on species response to ocean acidification.
+
+(ACCDB)
+S1 Database. Microsoft Access database of literature on species response to ocean acidification.
+
+https://doi.org/10.1371/journal.pone.0160669.s001
+
+(ACCDB)
+S2 Database. References for the manuscripts included in the database of literature on species response to ocean acidification.
+
+https://doi.org/10.1371/journal.pone.0160669.s002
+
+(PDF)
+S1 Fig. Diagram of relation among component scores used to calculate pH survival scalars.
+
+https://doi.org/10.1371/journal.pone.0160669.s003
+
+(TIF)
+S2 Fig. Number of studies for each functional group with information on species distribution.
+
+Number of studies for each functional group with information on whether the species studied is distributed in the California Current (CC) and study subjects are collected from the California Current.
+
+https://doi.org/10.1371/journal.pone.0160669.s004
+
+(TIF)
+S3 Fig. pH survival sensitivity curves.
+
+pH survival sensitivity curves for all functional groups in the California Current ecosystem model and some functional groups not in the model (coralline algae, fish) for which published literature exists on species response to carbonate chemistry conditions.
+
+https://doi.org/10.1371/journal.pone.0160669.s005
+
+(PDF)
+S4 Fig. Biomass and evidence score for each functional group.
+
+The (a) biomass and (b) evidence score for each functional group in the California Current ecosystem model. Biomass is on a log10 scale.
+
+https://doi.org/10.1371/journal.pone.0160669.s006
+
+(TIF)
+S1 File. PRISMA checklist.
+
+https://doi.org/10.1371/journal.pone.0160669.s007
+
+(DOC)
+S2 File. PRISMA flowchart.
+
+https://doi.org/10.1371/journal.pone.0160669.s008
+
+(DOC)
+S1 Table. Functional groups in California Current ecosystem model.
+
+Invertebrate and vertebrate groups in the California Current ecosystem model that could be directly sensitive to ocean acidification. From Kaplan et al. [ 26 ].
+
+https://doi.org/10.1371/journal.pone.0160669.s009
+
+(XLSX)
+S2 Table. Data and scores summarizing functional group response to increased CO 2 and survival response curve data.
+
+Data for each functional group used to develop all scores, the scores themselves, and the OA survival response curve with slope error.
+
+https://doi.org/10.1371/journal.pone.0160669.s010
+
+(XLSX)
+Acknowledgments
+
+Isaac Kaplan and Chris Harvey provided helpful comments to improve this manuscript. Funding for this project was provided by the NOAA Ocean Acidification Program and the Northwest Fisheries Science Center.
+Author Contributions
+
+    Conceptualization: DSB PM.
+    Data curation: DSB PM.
+    Formal analysis: DSB PM.
+    Funding acquisition: DSB PM.
+    Investigation: DSB PM.
+    Methodology: DSB PM.
+    Project administration: DSB PM.
+    Resources: DSB PM.
+    Software: DSB PM.
+    Supervision: DSB PM.
+    Validation: DSB PM.
+    Visualization: DSB PM.
+    Writing - original draft: DSB PM.
+    Writing - review & editing: DSB PM.
+
+References
+
+    1. Doney SC, Fabry VJ, Feely RA, Kleypas JA (2009) Ocean acidification: the other CO 2 problem. Annual Review of Marine Science 2009.1: 169–192.
+        View Article
+        Google Scholar 
+    2. Feely RA, Sabine CL, Lee K, Berelson W, Kleypas J, Fabry VJ, et al. (2004) Impact of anthropogenic CO 2 on the CaCO 3 system in the oceans. Science 305: 362–366. pmid:15256664
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    3. Sabine CL, Feely RA, Gruber N, Key RM, Lee K, Bullister JL, et al. (2004) The oceanic sink for anthropogenic CO 2 . Science 305: 367–371. pmid:15256665
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    4. Clarkson MO, Kasemann SA, Wood RA, Lenton TM, Daines SJ, Richoz S, et al. (2015) Ocean acidification and the Permo-Triassic mass extinction. Science 348: 229–232. pmid:25859043
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    5. Busch DS, Harvey CJ, McElhany P (2013) Potential impacts of ocean acidifcation on the Puget Sound food web. ICES Journal of Marine Science 70: 823–833.
+        View Article
+        Google Scholar 
+    6. Griffith GP, Fulton EA, Gorton R, Richardson AJ (2012) Predicting interactions among fishing, ocean warming, and ocean acidification in a marine system with whole-ecosystem models. Conservation Biology 26: 1145–1152. pmid:23009091
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    7. Hall-Spencer JM, Rodolfo-Metalpa R, Martin S, Ransome E, Fine M, Turner SM, et al. (2008) Volcanic carbon dioxide vents show ecosystem effects of ocean acidification. Nature 454: 96–99. pmid:18536730
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    8. Fabricius KE, De'ath G, Noonan S, Uthicke S (2014) Ecological effects of ocean acidification and habitat complexity on reef-associated macroinvertebrate communities. Proceedings of the Royal Society B: Biological Sciences 281.
+        View Article
+        Google Scholar 
+    9. Enochs IC, Manzello DP, Donham EM, Kolodziej G, Okano R, Johnston L, et al. (2015) Shift from coral to macroalgae dominance on a volcanically acidified reef. Nature Climate Change 5: 1083–1088.
+        View Article
+        Google Scholar 
+    10. Barton A, Hales B, Waldbusser GG, Langdon C, Feely RA (2012) The Pacific oyster, Crassostrea gigas , shows negative correlation to naturally elevated carbon dioxide levels: Implications for near-term ocean acidification effects. Limnology and Oceanography 57: 698–710.
+        View Article
+        Google Scholar 
+    11. Bednaršek N, Feely RA, Reum JCP, Peterson B, Menkel J, Alin S, et al. (2014) Limacina helicina shell dissolution as an indicator of declining habitat suitability due to ocean acidification in the California Current Ecosystem. Proceedings of the Royal Society B: Biological Sciences 281: 20140123. pmid:24789895
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    12. Bednaršek N, Tarling GA, Bakker DCE, Fielding S, Jones EM, Venables HJ, et al. (2012) Extensive dissolution of live pteropods in the Southern Ocean. Nature Geosciences 5: 881–885.
+        View Article
+        Google Scholar 
+    13. Kroeker KJ, Kordas RL, Crim R, Hendriks IE, Ramajo L, Singh GS, et al. (2013) Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming. Global Change Biology 19: 1884–1896. pmid:23505245
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    14. Kroeker KJ, Kordas RL, Crim RN, Singh GG (2010) Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms. Ecology Letters 13: 1419–1434. pmid:20958904
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    15. Wittmann AC, Pörtner H-O (2013) Sensitivities of extant animal taxa to ocean acidification. Nature Climate Change 3: 995–1001.
+        View Article
+        Google Scholar 
+    16. Cooley SR, Jewett EB, Reichert J, Robbins L, Shrestha G, Wieczorek D, et al. (2015) Getting ocean acidification on decision makers’ to-do lists: dissecting the process through case studies. Oceanography 28: 198–211.
+        View Article
+        Google Scholar 
+    17. Ainsworth CH, Samhouri JF, Busch DS, Chueng WWL, Dunne J, Okey TA (2011) Potential impacts of climate change on Northeast Pacific marine fisheries and food webs. ICES Journal of Marine Science 68: 1217–1229.
+        View Article
+        Google Scholar 
+    18. Busch DS, O’Donnell MJ, Hauri C, Mach KJ, Poach M, Doney SC, et al. (2015) Understanding, characterizing, and communicating responses to ocean acidification: challenges and uncertainties. Oceanography 28: 30–39.
+        View Article
+        Google Scholar 
+    19. Andersson AJ, Kline DI, Edmunds PJ, Archer SD, Bednarsek N, Carpenter RC, et al. (2015) Understanding ocean acidification impacts on organismal to ecological scales. Oceanography 28: 16–27.
+        View Article
+        Google Scholar 
+    20. Schindler DW, Mills KH, Malley DF, Findlay DL, Shearer JA, Davies IJ, et al. (1985) Long-term ecosystem stress: the effects of years of experimental acidification on a small lake. Science 228: 1395–1401. pmid:17814473
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    21. Lohbeck KT, Riebesell U, Reusch TBH (2012) Adaptive evolution of a key phytoplankton species to ocean acidification. Nature Geosciences 5: 346–351.
+        View Article
+        Google Scholar 
+    22. Tatters AO, Schnetzer A, Fu F, Lie AYA, Caron DA, Hutchins DA (2013) Short- versus long-term responses to changing CO 2 in a coastal dinoflagellate bloom: implications for interspecific competitive interactions and community structure. Evolution 67: 1879–1891. pmid:23815646
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    23. Thor P, Dupont S (2015) Transgenerational effects alleviate severe fecundity loss during ocean acidification in a ubiquitous planktonic copepod. Global Change Biology 21: 2261–2271. pmid:25430823
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    24. McElhany P, Busch DS (2013) Appropriate pCO 2 treatments in ocean acidification experiments. Marine Biology 160: 1807–1812.
+        View Article
+        Google Scholar 
+    25. Haigh R, Ianson D, Holt CA, Neate HE, Edwards AM (2015) Effects of ocean acidification on temperate coastal marine ecosystems and fisheries in the Northeast Pacific. PLOS ONE 10: e0117533. pmid:25671596
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    26. Waldbusser GG, Hales B, Langdon CJ, Haley BA, Schrader P, Brunner EL, et al. (2015) Ocean acidification has multiple modes of action on bivalve larvae. PLOS ONE 10: e0128376. pmid:26061095
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    27. Kaplan IC, Marshall KN, Hodgson E, Koehn L (2014) Update for 2014 methodology review: ongoing revisions to the spatially explicit Atlantis ecosystem model of the California Current. NOAA Northwest Fisheries Science Center and University of Washington.
+    28. Brand EJ, Kaplan IC, Harvey CJ, Levin PS, Fulton EA, Hermann AJ, et al. (2007) A spatially explicit ecosystem model of the California Current’s food web and oceanography. NOAA Technical Memorandum NMFS-NWFSC-84. 145 p.
+    29. Horne P, Kaplan IC, Marshall K, Levin PS, Harvey CJ, Hermann AJ, et al. (2010) Design and parameterization of a spatially explicity ecosystem model of the central California Current. NOAA Technical Memorandum NMFS-NWFSC-1 04. 140 p.
+    30. Kaplan IC, Horne PJ, Levin PS (2012) Screening California Current fishery management scenarios using the Atlantis end-to-end ecosystem model. Progress in Oceanography 102: 5–18.
+        View Article
+        Google Scholar 
+    31. Kaplan IC, Levin PS, Burden M, Fulton EA (2010) Fishing catch shares in the face of global change: a framework for integrating cumulative impacts and single species management. Canadian Journal of Fisheries Science 67: 1968–1982.
+        View Article
+        Google Scholar 
+    32. Feely RA, Sabine CL, Hernandez-Ayon JM, Ianson D, Hales B (2008) Evidence for upwelling of corrosive "acidified" water onto the continental shelf. Science 320: 1490–1492. pmid:18497259
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    33. Gruber N, Hauri C, Lachkar Z, Loher D, Frölicher TL, Plattner G-K (2012) Rapid progression of ocean acidification in the California Current System. Science 337: 220–223. pmid:22700658
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    34. National Marine Fisheries Service (2015) Fisheries of the United States, 2014. U.S. Department of Commerce, NOAA Current Fishery Statistics No.2014. Available: https://www.st.nmfs.noaa.gov/commercial-fisheries/fus/fus14/index
+    35. Miller JJ, Maher M, Bohaboy E, Friedman CS, McElhany P (2016). Exposure to low pH reduces survival and delays development in early life stages of Dungeness crab ( Cancer magister ). Marine Biology 163: 1–11.
+        View Article
+        Google Scholar 
+    36. Dupont S, Hall E, Calosi P, Lundve B (2014) First evidence of altered sensory quality in a shellfish exposed to decreased pH relevant to ocean acidification. Journal of Shellfish Research 33:857–861.
+        View Article
+        Google Scholar 
+    37. Nagelkerken I, Connell SD (2015) Global alteration of ocean ecosystem functioning due to increasing human CO 2 emissions. Proceedings of the National Academy of Sciences 112: 13272–13277.
+        View Article
+        Google Scholar 
+    38. Pespeni MH, Chan F, Menge BA, Palumbi SR (2013) Signs of adaptation to local pH conditions across an environmental mosaic in the California Current Ecosystem. Integrative and Comparative Biology 53: 857–870. pmid:23980118
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    39. Meyer J, Riebesell U (2015) Responses of coccolithophores to ocean acidification: a meta-analysis. Biogeosciences 12: 1671–1682.
+        View Article
+        Google Scholar 
+    40. Miller AW, Reynolds AC, Sobrino C, Riedel GF (2009) Shellfish face uncertain future in high CO 2 world: influence of acidification on oyster larvae calcification and growth in estuaries. PLOS ONE 4: e5661. pmid:19478855
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    41. IPCC (2014) Summary for Policymakers. In: Climate Change 2014 : Impacts , Adaptation , and Vulnerability . Part A : Global and Sectoral Aspects . Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al., editors. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+    42. Gattuso J-P, Brewer P, Hoegh-Guldberg O, Kleypas JA, Pörtner H-O, Schmidt D (2014) Ocean acidification: cross-chapter box. In: Climate Change 2014 : Impacts , Adaptation , and Vulnerability . Part A : Global and Sectoral Aspects . Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al., editors. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+    43. Hoegh-Guldberg O, Cai R, Brewer PG, Fabry VJ, Hilmi K, Jung S, et al. (2014) The Ocean. In: Climate Change 2014 : Impacts , Adaptation , and Vulnerability . Part A : Global and Sectoral Aspects . Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al., editors. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+    44. Pörtner H-O, Karl D, Boyd PW, Cheung W, Lluch-Cota SE, Nojiri Y, et al. (2014) Ocean systems. In: Climate Change 2014 : Impacts , Adaptation , and Vulnerability . Part A : Global and Sectoral Aspects . Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al., editors. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+    45. Riebesell U, Fabry VJ, Hansson L, Gattuso J-P, editors (2010) Guide to best practices for ocean acidification research and data reporting. Luxembourg: Publications Office of the European Union. 260 p.
+    46. Udovydchenkov IA, Duda TF, Doney SC, Lima ID (2010) Modeling deep ocean shipping noise in varying acidity conditions. The Journal of the Acoustical Society of America 128: EL130–EL136. pmid:20815429
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    47. Hofmann GE, Smith JE, Johnson KS, Send U, Levin LA, Micheli F, et al. (2011) High-frequency dynamics of ocean pH: a multi-ecosystem comparison. PLOS ONE 6: e28983. pmid:22205986
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    48. Tukey JW (1977) Exploratory data analysis: Pearson.
+    49. Browman HI (2016) Applying organized scepticisim to ocean acidification research. ICES Journal of Marine Science 73: 529–536.
+        View Article
+        Google Scholar 
+    50. Barton A, Waldbusser GG, Feely RA, Weisberg SB, Newton JA, Hales B, et al. (2015) Impacts of coastal acidification on the Pacific Northwest shellfish industry and adaptation strategies implemented in response. Oceanography 28: 146–159.
+        View Article
+        Google Scholar 
+    51. Padilla-Gamiño JL, Kelly MW, Evans TG, Hofmann GE (2013) Temperature and CO 2 additively regulate physiology, morphology and genomic responses of larval sea urchins, Strongylocentrotus purpuratus . Proceedings of the Royal Society B: Biological Sciences 280: 20130155. pmid:23536595
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    52. Ross PM, Parker L, O’Connor WA, Bailey EA (2011) The impact of ocean acidification on reproduction, early development and settlement of marine organisms. Water 3: 1005.
+        View Article
+        Google Scholar 
+    53. Feely RA, Klinger T, Newton J, Chadsey M (2013) Washington Blue Ribbon Panel on Ocean Acidification: Science white paper. NOAA Oceans and Atmospheric Research Special Report.
+    54. Evans W, Hales B, Strutton PG, Shearman RK, Barth JA (2015) Failure to bloom: Intense upwelling results in negligible phytoplankton response and prolonged CO 2 outgassing over the Oregon shelf. Journal of Geophysical Research: Oceans 120: 1446–1461.
+        View Article
+        Google Scholar 
+    55. Samhouri JF, Levin PS (2012) Linking land- and sea-based activities to risk in coastal ecosystems. Biological Conservation 145: 118–129.
+        View Article
+        Google Scholar 
+    56. Hare JA, Morrison WE, Nelson MW, Stachura MM, Teeters EJ, Griffis RB, et al. (2016) A vulnerability assessment of fish and invertebrates to climate change on the Northeast U.S. continental shelf. PLOS ONE 11: e0146756. pmid:26839967
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    57. Hodgson E, Essington T, Kaplan IC (2014) Appendix management strategy (MS) 2013–05. Assessing the risk of ocean acidification in the California Current to two key fishery species, Dungeness crab (Cancer magister) and pink shrimp (Pandalus jordani) California Current Integrated Ecosystem Assessment Update 2013, U.S. Dept. Commerce, NOAA, Northwest and Southwest Fisheries Science Centers.
+    58. Field CB, Barros VR, Mach KJ, Mastrandrea MD, van Aalst M, Adger WN, et al. (2014) Technical summary. Ocean acidification: cross-chapter box. In: Climate Change 2014 : Impacts , Adaptation , and Vulnerability . Summaries , Frequently Asked Questions , and Cross-Chapter Boxes . Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . Field CB, Barros VR, Dokken DJ, Mach KJ, Mastrandrea MD, Bilir TE, et al., editors. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+    59. Pörtner H (2008) Ecosystem effects of ocean acidification in times of ocean warming: a physiologist's view. Marine Ecology Progress Series 373: 203–217.
+        View Article
+        Google Scholar 
+    60. Gao K, Helbling EW, Häder DP, Hutchins DA (2012) Responses of marine primary producers to interactions between ocean acidification, solar radiation, and warming. Marine Ecology Progress Series 470: 167–189.
+        View Article
+        Google Scholar 
+    61. Dutkiewicz S, Morris JJ, Follows MJ, Scott J, Levitan O, Dyhrman ST, et al. (2015) Impact of ocean acidification on the structure of future phytoplankton communities. Nature Climate Change 5:1002–1006.
+        View Article
+        Google Scholar 
+    62. Nilsson GE, Dixson DL, Domenici P, McCormick MI, Sorensen C, Watson S-A, et al. (2012) Near-future carbon dioxide levels alter fish behaviour by interfering with neurotransmitter function. Nature Climate Change 2: 201–204.
+        View Article
+        Google Scholar 
+    63. Fu FX, Place AR, Garcia NS, Hutchins DA (2010) CO 2 and phosphate availability control the toxicity of the harmful bloom dinoflagellate Karlodinium veneficum . Aquatic Microbial Ecology 59: 55–65.
+        View Article
+        Google Scholar 
+    64. Cornwall CE, Hurd CL (In press) Experimental design in ocean acidification research: problems and solutions. ICES Journal of Marine Science.
+        View Article
+        Google Scholar 
+    65. Reum JCP, Alin SR, Harvey CJ, Bednarsek N, Evans W, Feely RA, et al. (2016) Interpretation and design of ocean acidification experiments in upwelling systems in the context of carbonate chemistry co-variation with temperature and oxygen. ICES Journal of Marine Science 73: 582–595.
+        View Article
+        Google Scholar 
+
+Download PDF
+ 
+
+    Citation
+    XML
+
+Print
+
+    Print article
+    Reprints
+
+Share
+
+    Reddit Reddit
+    Facebook Facebook
+    LinkedIn LinkedIn
+    Mendeley Mendeley
+    Twitter Twitter
+    Email Email
+
+  Check for updates via CrossMark
+Advertisement
+Subject Areas
+?
+Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+    Functional groups  
+
+    Is the Subject Area "Functional groups" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Carbonates  
+
+    Is the Subject Area "Carbonates" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Ecosystem modeling  
+
+    Is the Subject Area "Ecosystem modeling" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Ocean acidification  
+
+    Is the Subject Area "Ocean acidification" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    California  
+
+    Is the Subject Area "California" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Carbon dioxide  
+
+    Is the Subject Area "Carbon dioxide" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Ecosystem functioning  
+
+    Is the Subject Area "Ecosystem functioning" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Marine chemistry  
+
+    Is the Subject Area "Marine chemistry" applicable to this article? Yes No
+
+    Thanks for your feedback.
+
+    Publications
+    PLOS Biology
+    PLOS Medicine
+    PLOS Computational Biology
+    PLOS Genetics
+    PLOS Pathogens
+    PLOS ONE
+    PLOS Neglected Tropical Diseases
+
+     
+    PLOS Climate
+    PLOS Digital Health
+    PLOS Global Public Health
+    PLOS Sustainability and Transformation
+    PLOS Water
+
+    Home
+    Blogs
+    Collections
+    Give feedback
+    LOCKSS
+
+    Privacy Policy
+    Terms of Use
+    Advertise
+    Media Inquiries
+    Contact
+
+PLOS PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in San Francisco, California, US
+ 
